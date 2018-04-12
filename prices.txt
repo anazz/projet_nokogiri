@@ -1,0 +1,1565 @@
+ {:name=>"Bitcoin", :price=>"$0.000328"}
+ {:name=>"Ethereum", :price=>"$0.000328"}
+ {:name=>"Ripple", :price=>"$0.000328"}
+ {:name=>"Bitcoin Cash", :price=>"$0.000328"}
+ {:name=>"EOS", :price=>"$0.000328"}
+ {:name=>"Litecoin", :price=>"$0.000328"}
+ {:name=>"Cardano", :price=>"$0.000328"}
+ {:name=>"Stellar", :price=>"$0.000328"}
+ {:name=>"NEO", :price=>"$0.000328"}
+ {:name=>"IOTA", :price=>"$0.000328"}
+ {:name=>"Monero", :price=>"$0.000328"}
+ {:name=>"Dash", :price=>"$0.000328"}
+ {:name=>"TRON", :price=>"$0.000328"}
+ {:name=>"NEM", :price=>"$0.000328"}
+ {:name=>"Tether", :price=>"$0.000328"}
+ {:name=>"VeChain", :price=>"$0.000328"}
+ {:name=>"Ethereum Classic", :price=>"$0.000328"}
+ {:name=>"Binance Coin", :price=>"$0.000328"}
+ {:name=>"Verge", :price=>"$0.000328"}
+ {:name=>"Qtum", :price=>"$0.000328"}
+ {:name=>"OmiseGO", :price=>"$0.000328"}
+ {:name=>"Ontology", :price=>"$0.000328"}
+ {:name=>"Lisk", :price=>"$0.000328"}
+ {:name=>"ICON", :price=>"$0.000328"}
+ {:name=>"Bytom", :price=>"$0.000328"}
+ {:name=>"Zcash", :price=>"$0.000328"}
+ {:name=>"Bitcoin Gold", :price=>"$0.000328"}
+ {:name=>"Nano", :price=>"$0.000328"}
+ {:name=>"Steem", :price=>"$0.000328"}
+ {:name=>"Wanchain", :price=>"$0.000328"}
+ {:name=>"Bytecoin", :price=>"$0.000328"}
+ {:name=>"Populous", :price=>"$0.000328"}
+ {:name=>"DigixDAO", :price=>"$0.000328"}
+ {:name=>"BitShares", :price=>"$0.000328"}
+ {:name=>"Siacoin", :price=>"$0.000328"}
+ {:name=>"Bitcoin Private", :price=>"$0.000328"}
+ {:name=>"Decred", :price=>"$0.000328"}
+ {:name=>"Stratis", :price=>"$0.000328"}
+ {:name=>"Dogecoin", :price=>"$0.000328"}
+ {:name=>"RChain", :price=>"$0.000328"}
+ {:name=>"Waves", :price=>"$0.000328"}
+ {:name=>"Maker", :price=>"$0.000328"}
+ {:name=>"Aeternity", :price=>"$0.000328"}
+ {:name=>"Bitcoin Diamond", :price=>"$0.000328"}
+ {:name=>"Zilliqa", :price=>"$0.000328"}
+ {:name=>"Status", :price=>"$0.000328"}
+ {:name=>"0x", :price=>"$0.000328"}
+ {:name=>"Komodo", :price=>"$0.000328"}
+ {:name=>"Loopring", :price=>"$0.000328"}
+ {:name=>"Aion", :price=>"$0.000328"}
+ {:name=>"Hshare", :price=>"$0.000328"}
+ {:name=>"Augur", :price=>"$0.000328"}
+ {:name=>"Ardor", :price=>"$0.000328"}
+ {:name=>"IOStoken", :price=>"$0.000328"}
+ {:name=>"KuCoin Shares", :price=>"$0.000328"}
+ {:name=>"aelf", :price=>"$0.000328"}
+ {:name=>"Waltonchain", :price=>"$0.000328"}
+ {:name=>"Ark", :price=>"$0.000328"}
+ {:name=>"DigiByte", :price=>"$0.000328"}
+ {:name=>"Golem", :price=>"$0.000328"}
+ {:name=>"PIVX", :price=>"$0.000328"}
+ {:name=>"Cryptonex", :price=>"$0.000328"}
+ {:name=>"Basic Attenti...", :price=>"$0.000328"}
+ {:name=>"Factom", :price=>"$0.000328"}
+ {:name=>"Centrality", :price=>"$0.000328"}
+ {:name=>"Substratum", :price=>"$0.000328"}
+ {:name=>"QASH", :price=>"$0.000328"}
+ {:name=>"MonaCoin", :price=>"$0.000328"}
+ {:name=>"Veritaseum", :price=>"$0.000328"}
+ {:name=>"Elastos", :price=>"$0.000328"}
+ {:name=>"Nebulas", :price=>"$0.000328"}
+ {:name=>"Dragonchain", :price=>"$0.000328"}
+ {:name=>"Mithril", :price=>"$0.000328"}
+ {:name=>"Gas", :price=>"$0.000328"}
+ {:name=>"Ethos [BQX]", :price=>"$0.000328"}
+ {:name=>"GXChain", :price=>"$0.000328"}
+ {:name=>"Mixin", :price=>"$0.000328"}
+ {:name=>"FunFair", :price=>"$0.000328"}
+ {:name=>"Syscoin", :price=>"$0.000328"}
+ {:name=>"Kyber Network", :price=>"$0.000328"}
+ {:name=>"Byteball Bytes", :price=>"$0.000328"}
+ {:name=>"Electroneum", :price=>"$0.000328"}
+ {:name=>"Revain", :price=>"$0.000328"}
+ {:name=>"ReddCoin", :price=>"$0.000328"}
+ {:name=>"Nxt", :price=>"$0.000328"}
+ {:name=>"Skycoin", :price=>"$0.000328"}
+ {:name=>"ZCoin", :price=>"$0.000328"}
+ {:name=>"MaidSafeCoin", :price=>"$0.000328"}
+ {:name=>"Nucleus Vision", :price=>"$0.000328"}
+ {:name=>"SALT", :price=>"$0.000328"}
+ {:name=>"Storm", :price=>"$0.000328"}
+ {:name=>"ChainLink", :price=>"$0.000328"}
+ {:name=>"Power Ledger", :price=>"$0.000328"}
+ {:name=>"Bancor", :price=>"$0.000328"}
+ {:name=>"Enigma", :price=>"$0.000328"}
+ {:name=>"WAX", :price=>"$0.000328"}
+ {:name=>"Storj", :price=>"$0.000328"}
+ {:name=>"Neblio", :price=>"$0.000328"}
+ {:name=>"Request Network", :price=>"$0.000328"}
+ {:name=>"TenX", :price=>"$0.000328"}
+ {:name=>"Dent", :price=>"$0.000328"}
+ {:name=>"Dentacoin", :price=>"$0.000328"}
+ {:name=>"Cindicator", :price=>"$0.000328"}
+ {:name=>"Fusion", :price=>"$0.000328"}
+ {:name=>"Emercoin", :price=>"$0.000328"}
+ {:name=>"POA Network", :price=>"$0.000328"}
+ {:name=>"ZenCash", :price=>"$0.000328"}
+ {:name=>"Matrix AI Net...", :price=>"$0.000328"}
+ {:name=>"Nexus", :price=>"$0.000328"}
+ {:name=>"Iconomi", :price=>"$0.000328"}
+ {:name=>"Civic", :price=>"$0.000328"}
+ {:name=>"High Performa...", :price=>"$0.000328"}
+ {:name=>"Achain", :price=>"$0.000328"}
+ {:name=>"Vertcoin", :price=>"$0.000328"}
+ {:name=>"Genaro Network", :price=>"$0.000328"}
+ {:name=>"Nuls", :price=>"$0.000328"}
+ {:name=>"Polymath", :price=>"$0.000328"}
+ {:name=>"Decentraland", :price=>"$0.000328"}
+ {:name=>"Particl", :price=>"$0.000328"}
+ {:name=>"BOScoin", :price=>"$0.000328"}
+ {:name=>"Dropil", :price=>"$0.000328"}
+ {:name=>"SmartCash", :price=>"$0.000328"}
+ {:name=>"GameCredits", :price=>"$0.000328"}
+ {:name=>"Dynamic Tradi...", :price=>"$0.000328"}
+ {:name=>"Ubiq", :price=>"$0.000328"}
+ {:name=>"SingularityNET", :price=>"$0.000328"}
+ {:name=>"Kin", :price=>"$0.000328"}
+ {:name=>"Gnosis", :price=>"$0.000328"}
+ {:name=>"Quantstamp", :price=>"$0.000328"}
+ {:name=>"Blocknet", :price=>"$0.000328"}
+ {:name=>"Monaco", :price=>"$0.000328"}
+ {:name=>"Enjin Coin", :price=>"$0.000328"}
+ {:name=>"Metal", :price=>"$0.000328"}
+ {:name=>"iExec RLC", :price=>"$0.000328"}
+ {:name=>"Time New Bank", :price=>"$0.000328"}
+ {:name=>"Cube", :price=>"$0.000328"}
+ {:name=>"Santiment Net...", :price=>"$0.000328"}
+ {:name=>"Arcblock", :price=>"$0.000328"}
+ {:name=>"MinexCoin", :price=>"$0.000328"}
+ {:name=>"Theta Token", :price=>"$0.000328"}
+ {:name=>"Po.et", :price=>"$0.000328"}
+ {:name=>"SIRIN LABS Token", :price=>"$0.000328"}
+ {:name=>"Raiden Networ...", :price=>"$0.000328"}
+ {:name=>"Bitcore", :price=>"$0.000328"}
+ {:name=>"Ignis", :price=>"$0.000328"}
+ {:name=>"DeepBrain Chain", :price=>"$0.000328"}
+ {:name=>"Aragon", :price=>"$0.000328"}
+ {:name=>"Pillar", :price=>"$0.000328"}
+ {:name=>"Bluzelle", :price=>"$0.000328"}
+ {:name=>"Genesis Vision", :price=>"$0.000328"}
+ {:name=>"Credits", :price=>"$0.000328"}
+ {:name=>"DigitalNote", :price=>"$0.000328"}
+ {:name=>"NavCoin", :price=>"$0.000328"}
+ {:name=>"BitcoinDark", :price=>"$0.000328"}
+ {:name=>"Loom Network", :price=>"$0.000328"}
+ {:name=>"PayPie", :price=>"$0.000328"}
+ {:name=>"BLOCKv", :price=>"$0.000328"}
+ {:name=>"THEKEY", :price=>"$0.000328"}
+ {:name=>"CyberMiles", :price=>"$0.000328"}
+ {:name=>"Oyster", :price=>"$0.000328"}
+ {:name=>"Paypex", :price=>"$0.000328"}
+ {:name=>"Gifto", :price=>"$0.000328"}
+ {:name=>"SmartMesh", :price=>"$0.000328"}
+ {:name=>"DEW", :price=>"$0.000328"}
+ {:name=>"Ruff", :price=>"$0.000328"}
+ {:name=>"BitBay", :price=>"$0.000328"}
+ {:name=>"Streamr DATAcoin", :price=>"$0.000328"}
+ {:name=>"SaluS", :price=>"$0.000328"}
+ {:name=>"OST", :price=>"$0.000328"}
+ {:name=>"Scry.info", :price=>"$0.000328"}
+ {:name=>"IoT Chain", :price=>"$0.000328"}
+ {:name=>"Envion", :price=>"$0.000328"}
+ {:name=>"Groestlcoin", :price=>"$0.000328"}
+ {:name=>"Telcoin", :price=>"$0.000328"}
+ {:name=>"SingularDTV", :price=>"$0.000328"}
+ {:name=>"ION", :price=>"$0.000328"}
+ {:name=>"MediBloc", :price=>"$0.000328"}
+ {:name=>"Ripio Credit ...", :price=>"$0.000328"}
+ {:name=>"Pura", :price=>"$0.000328"}
+ {:name=>"Bibox Token", :price=>"$0.000328"}
+ {:name=>"ETHLend", :price=>"$0.000328"}
+ {:name=>"AdEx", :price=>"$0.000328"}
+ {:name=>"Universa", :price=>"$0.000328"}
+ {:name=>"Quantum Resis...", :price=>"$0.000328"}
+ {:name=>"Edgeless", :price=>"$0.000328"}
+ {:name=>"DATA", :price=>"$0.000328"}
+ {:name=>"AirSwap", :price=>"$0.000328"}
+ {:name=>"Eidoo", :price=>"$0.000328"}
+ {:name=>"CRYPTO20", :price=>"$0.000328"}
+ {:name=>"SpankChain", :price=>"$0.000328"}
+ {:name=>"BridgeCoin", :price=>"$0.000328"}
+ {:name=>"SophiaTX", :price=>"$0.000328"}
+ {:name=>"Asch", :price=>"$0.000328"}
+ {:name=>"SONM", :price=>"$0.000328"}
+ {:name=>"Ambrosus", :price=>"$0.000328"}
+ {:name=>"CloakCoin", :price=>"$0.000328"}
+ {:name=>"Peercoin", :price=>"$0.000328"}
+ {:name=>"Bismuth", :price=>"$0.000328"}
+ {:name=>"Experience Po...", :price=>"$0.000328"}
+ {:name=>"Feathercoin", :price=>"$0.000328"}
+ {:name=>"MediShares", :price=>"$0.000328"}
+ {:name=>"Red Pulse", :price=>"$0.000328"}
+ {:name=>"Einsteinium", :price=>"$0.000328"}
+ {:name=>"MobileGo", :price=>"$0.000328"}
+ {:name=>"UTRUST", :price=>"$0.000328"}
+ {:name=>"Viacoin", :price=>"$0.000328"}
+ {:name=>"AppCoins", :price=>"$0.000328"}
+ {:name=>"Wings", :price=>"$0.000328"}
+ {:name=>"Ormeus Coin", :price=>"$0.000328"}
+ {:name=>"Pundi X", :price=>"$0.000328"}
+ {:name=>"Presearch", :price=>"$0.000328"}
+ {:name=>"district0x", :price=>"$0.000328"}
+ {:name=>"Crypterium", :price=>"$0.000328"}
+ {:name=>"Trinity Netwo...", :price=>"$0.000328"}
+ {:name=>"WePower", :price=>"$0.000328"}
+ {:name=>"Counterparty", :price=>"$0.000328"}
+ {:name=>"VIBE", :price=>"$0.000328"}
+ {:name=>"TaaS", :price=>"$0.000328"}
+ {:name=>"WaBi", :price=>"$0.000328"}
+ {:name=>"OriginTrail", :price=>"$0.000328"}
+ {:name=>"Modum", :price=>"$0.000328"}
+ {:name=>"INS Ecosystem", :price=>"$0.000328"}
+ {:name=>"NAGA", :price=>"$0.000328"}
+ {:name=>"CasinoCoin", :price=>"$0.000328"}
+ {:name=>"Tierion", :price=>"$0.000328"}
+ {:name=>"Gulden", :price=>"$0.000328"}
+ {:name=>"Burst", :price=>"$0.000328"}
+ {:name=>"LBRY Credits", :price=>"$0.000328"}
+ {:name=>"Bread", :price=>"$0.000328"}
+ {:name=>"Ravencoin", :price=>"$0.000328"}
+ {:name=>"Rock", :price=>"$0.000328"}
+ {:name=>"XTRABYTES", :price=>"$0.000328"}
+ {:name=>"Melon", :price=>"$0.000328"}
+ {:name=>"KickCoin", :price=>"$0.000328"}
+ {:name=>"Soarcoin", :price=>"$0.000328"}
+ {:name=>"Jibrel Network", :price=>"$0.000328"}
+ {:name=>"Etherparty", :price=>"$0.000328"}
+ {:name=>"QLINK", :price=>"$0.000328"}
+ {:name=>"ECC", :price=>"$0.000328"}
+ {:name=>"IHT Real Esta...", :price=>"$0.000328"}
+ {:name=>"Metaverse ETP", :price=>"$0.000328"}
+ {:name=>"Wagerr", :price=>"$0.000328"}
+ {:name=>"Bottos", :price=>"$0.000328"}
+ {:name=>"Trade Token", :price=>"$0.000328"}
+ {:name=>"BlockMason Cr...", :price=>"$0.000328"}
+ {:name=>"HTMLCOIN", :price=>"$0.000328"}
+ {:name=>"Game.com", :price=>"$0.000328"}
+ {:name=>"Delphy", :price=>"$0.000328"}
+ {:name=>"DECENT", :price=>"$0.000328"}
+ {:name=>"Spectre.ai Di...", :price=>"$0.000328"}
+ {:name=>"bitCNY", :price=>"$0.000328"}
+ {:name=>"Nimiq Exchang...", :price=>"$0.000328"}
+ {:name=>"Shift", :price=>"$0.000328"}
+ {:name=>"Aeon", :price=>"$0.000328"}
+ {:name=>"Steem Dollars", :price=>"$0.000328"}
+ {:name=>"Elastic", :price=>"$0.000328"}
+ {:name=>"LinkEye", :price=>"$0.000328"}
+ {:name=>"Blox", :price=>"$0.000328"}
+ {:name=>"Unobtanium", :price=>"$0.000328"}
+ {:name=>"ERA", :price=>"$0.000328"}
+ {:name=>"Ink", :price=>"$0.000328"}
+ {:name=>"Triggers", :price=>"$0.000328"}
+ {:name=>"TokenCard", :price=>"$0.000328"}
+ {:name=>"FairCoin", :price=>"$0.000328"}
+ {:name=>"PotCoin", :price=>"$0.000328"}
+ {:name=>"Unikoin Gold", :price=>"$0.000328"}
+ {:name=>"Legolas Exchange", :price=>"$0.000328"}
+ {:name=>"Viberate", :price=>"$0.000328"}
+ {:name=>"TomoChain", :price=>"$0.000328"}
+ {:name=>"Bitcoin Atom", :price=>"$0.000328"}
+ {:name=>"Havven", :price=>"$0.000328"}
+ {:name=>"Synereo", :price=>"$0.000328"}
+ {:name=>"LEOcoin", :price=>"$0.000328"}
+ {:name=>"Cofound.it", :price=>"$0.000328"}
+ {:name=>"YOYOW", :price=>"$0.000328"}
+ {:name=>"Mobius", :price=>"$0.000328"}
+ {:name=>"Crown", :price=>"$0.000328"}
+ {:name=>"Namecoin", :price=>"$0.000328"}
+ {:name=>"PACcoin", :price=>"$0.000328"}
+ {:name=>"Safe Exchange...", :price=>"$0.000328"}
+ {:name=>"Humaniq", :price=>"$0.000328"}
+ {:name=>"Dai", :price=>"$0.000328"}
+ {:name=>"SunContract", :price=>"$0.000328"}
+ {:name=>"E-Dinar Coin", :price=>"$0.000328"}
+ {:name=>"EDUCare", :price=>"$0.000328"}
+ {:name=>"CPChain", :price=>"$0.000328"}
+ {:name=>"Zeepin", :price=>"$0.000328"}
+ {:name=>"QunQun", :price=>"$0.000328"}
+ {:name=>"DeepOnion", :price=>"$0.000328"}
+ {:name=>"COSS", :price=>"$0.000328"}
+ {:name=>"indaHash", :price=>"$0.000328"}
+ {:name=>"Lunyr", :price=>"$0.000328"}
+ {:name=>"SpaceChain", :price=>"$0.000328"}
+ {:name=>"Grid+", :price=>"$0.000328"}
+ {:name=>"Flash", :price=>"$0.000328"}
+ {:name=>"adToken", :price=>"$0.000328"}
+ {:name=>"Mercury", :price=>"$0.000328"}
+ {:name=>"Bean Cash", :price=>"$0.000328"}
+ {:name=>"Bankex", :price=>"$0.000328"}
+ {:name=>"Datum", :price=>"$0.000328"}
+ {:name=>"Internet Node...", :price=>"$0.000328"}
+ {:name=>"UpToken", :price=>"$0.000328"}
+ {:name=>"Zeusshield", :price=>"$0.000328"}
+ {:name=>"WhiteCoin", :price=>"$0.000328"}
+ {:name=>"I/O Coin", :price=>"$0.000328"}
+ {:name=>"Monetha", :price=>"$0.000328"}
+ {:name=>"Republic Prot...", :price=>"$0.000328"}
+ {:name=>"DMarket", :price=>"$0.000328"}
+ {:name=>"BlackCoin", :price=>"$0.000328"}
+ {:name=>"Mothership", :price=>"$0.000328"}
+ {:name=>"Everex", :price=>"$0.000328"}
+ {:name=>"Fortuna", :price=>"$0.000328"}
+ {:name=>"Phore", :price=>"$0.000328"}
+ {:name=>"Diamond", :price=>"$0.000328"}
+ {:name=>"Tao", :price=>"$0.000328"}
+ {:name=>"HempCoin", :price=>"$0.000328"}
+ {:name=>"Peerplays", :price=>"$0.000328"}
+ {:name=>"Numeraire", :price=>"$0.000328"}
+ {:name=>"Radium", :price=>"$0.000328"}
+ {:name=>"Odyssey", :price=>"$0.000328"}
+ {:name=>"Pepe Cash", :price=>"$0.000328"}
+ {:name=>"WeTrust", :price=>"$0.000328"}
+ {:name=>"Matchpool", :price=>"$0.000328"}
+ {:name=>"Refereum", :price=>"$0.000328"}
+ {:name=>"Medicalchain", :price=>"$0.000328"}
+ {:name=>"Electrify.Asia", :price=>"$0.000328"}
+ {:name=>"SIBCoin", :price=>"$0.000328"}
+ {:name=>"GridCoin", :price=>"$0.000328"}
+ {:name=>"OracleChain", :price=>"$0.000328"}
+ {:name=>"Bloom", :price=>"$0.000328"}
+ {:name=>"Uquid Coin", :price=>"$0.000328"}
+ {:name=>"ZClassic", :price=>"$0.000328"}
+ {:name=>"Lykke", :price=>"$0.000328"}
+ {:name=>"Storiqa", :price=>"$0.000328"}
+ {:name=>"Electra", :price=>"$0.000328"}
+ {:name=>"SwissBorg", :price=>"$0.000328"}
+ {:name=>"PRIZM", :price=>"$0.000328"}
+ {:name=>"Banyan Network", :price=>"$0.000328"}
+ {:name=>"Primecoin", :price=>"$0.000328"}
+ {:name=>"Selfkey", :price=>"$0.000328"}
+ {:name=>"Moeda Loyalty...", :price=>"$0.000328"}
+ {:name=>"VeriCoin", :price=>"$0.000328"}
+ {:name=>"ATMChain", :price=>"$0.000328"}
+ {:name=>"Incent", :price=>"$0.000328"}
+ {:name=>"SHIELD", :price=>"$0.000328"}
+ {:name=>"Omni", :price=>"$0.000328"}
+ {:name=>"RevolutionVR", :price=>"$0.000328"}
+ {:name=>"Propy", :price=>"$0.000328"}
+ {:name=>"AI Doctor", :price=>"$0.000328"}
+ {:name=>"SwftCoin", :price=>"$0.000328"}
+ {:name=>"Hive Project", :price=>"$0.000328"}
+ {:name=>"Alphacat", :price=>"$0.000328"}
+ {:name=>"Zoin", :price=>"$0.000328"}
+ {:name=>"YEE", :price=>"$0.000328"}
+ {:name=>"FirstBlood", :price=>"$0.000328"}
+ {:name=>"STK", :price=>"$0.000328"}
+ {:name=>"Blocktix", :price=>"$0.000328"}
+ {:name=>"Agrello", :price=>"$0.000328"}
+ {:name=>"Dimecoin", :price=>"$0.000328"}
+ {:name=>"MonetaryUnit", :price=>"$0.000328"}
+ {:name=>"Blockport", :price=>"$0.000328"}
+ {:name=>"Decision Token", :price=>"$0.000328"}
+ {:name=>"BitClave", :price=>"$0.000328"}
+ {:name=>"DADI", :price=>"$0.000328"}
+ {:name=>"ICOS", :price=>"$0.000328"}
+ {:name=>"Cappasity", :price=>"$0.000328"}
+ {:name=>"PoSW Coin", :price=>"$0.000328"}
+ {:name=>"OAX", :price=>"$0.000328"}
+ {:name=>"ShipChain", :price=>"$0.000328"}
+ {:name=>"Paragon", :price=>"$0.000328"}
+ {:name=>"bitUSD", :price=>"$0.000328"}
+ {:name=>"Cashaa", :price=>"$0.000328"}
+ {:name=>"Aeron", :price=>"$0.000328"}
+ {:name=>"Pareto Network", :price=>"$0.000328"}
+ {:name=>"Pascal Coin", :price=>"$0.000328"}
+ {:name=>"Olympus Labs", :price=>"$0.000328"}
+ {:name=>"NoLimitCoin", :price=>"$0.000328"}
+ {:name=>"Energo", :price=>"$0.000328"}
+ {:name=>"Bodhi", :price=>"$0.000328"}
+ {:name=>"Matryx", :price=>"$0.000328"}
+ {:name=>"CoinMeet", :price=>"$0.000328"}
+ {:name=>"Everus", :price=>"$0.000328"}
+ {:name=>"LATOKEN", :price=>"$0.000328"}
+ {:name=>"Rise", :price=>"$0.000328"}
+ {:name=>"Expanse", :price=>"$0.000328"}
+ {:name=>"NeosCoin", :price=>"$0.000328"}
+ {:name=>"All Sports", :price=>"$0.000328"}
+ {:name=>"BitConnect", :price=>"$0.000328"}
+ {:name=>"SolarCoin", :price=>"$0.000328"}
+ {:name=>"Bitcoin Green", :price=>"$0.000328"}
+ {:name=>"Qbao", :price=>"$0.000328"}
+ {:name=>"Karma", :price=>"$0.000328"}
+ {:name=>"Covesting", :price=>"$0.000328"}
+ {:name=>"carVertical", :price=>"$0.000328"}
+ {:name=>"Swarm", :price=>"$0.000328"}
+ {:name=>"Linda", :price=>"$0.000328"}
+ {:name=>"Divi", :price=>"$0.000328"}
+ {:name=>"EncrypGen", :price=>"$0.000328"}
+ {:name=>"iXledger", :price=>"$0.000328"}
+ {:name=>"Datawallet", :price=>"$0.000328"}
+ {:name=>"Sentinel Chain", :price=>"$0.000328"}
+ {:name=>"Restart Energ...", :price=>"$0.000328"}
+ {:name=>"ALIS", :price=>"$0.000328"}
+ {:name=>"LoMoCoin", :price=>"$0.000328"}
+ {:name=>"Rialto", :price=>"$0.000328"}
+ {:name=>"Lamden", :price=>"$0.000328"}
+ {:name=>"XPA", :price=>"$0.000328"}
+ {:name=>"EchoLink", :price=>"$0.000328"}
+ {:name=>"BABB", :price=>"$0.000328"}
+ {:name=>"Neumark", :price=>"$0.000328"}
+ {:name=>"Rubycoin", :price=>"$0.000328"}
+ {:name=>"Databits", :price=>"$0.000328"}
+ {:name=>"HollyWoodCoin", :price=>"$0.000328"}
+ {:name=>"Clams", :price=>"$0.000328"}
+ {:name=>"BitSend", :price=>"$0.000328"}
+ {:name=>"Xaurum", :price=>"$0.000328"}
+ {:name=>"NVO", :price=>"$0.000328"}
+ {:name=>"ALQO", :price=>"$0.000328"}
+ {:name=>"Swarm City", :price=>"$0.000328"}
+ {:name=>"Polybius", :price=>"$0.000328"}
+ {:name=>"ProChain", :price=>"$0.000328"}
+ {:name=>"Oxycoin", :price=>"$0.000328"}
+ {:name=>"Mooncoin", :price=>"$0.000328"}
+ {:name=>"BitDegree", :price=>"$0.000328"}
+ {:name=>"Myriad", :price=>"$0.000328"}
+ {:name=>"Stox", :price=>"$0.000328"}
+ {:name=>"Maecenas", :price=>"$0.000328"}
+ {:name=>"Blackmoon", :price=>"$0.000328"}
+ {:name=>"True Chain", :price=>"$0.000328"}
+ {:name=>"DecentBet", :price=>"$0.000328"}
+ {:name=>"SureRemit", :price=>"$0.000328"}
+ {:name=>"Patientory", :price=>"$0.000328"}
+ {:name=>"NewYorkCoin", :price=>"$0.000328"}
+ {:name=>"Universal Cur...", :price=>"$0.000328"}
+ {:name=>"Zap", :price=>"$0.000328"}
+ {:name=>"Lympo", :price=>"$0.000328"}
+ {:name=>"OKCash", :price=>"$0.000328"}
+ {:name=>"Snovio", :price=>"$0.000328"}
+ {:name=>"DomRaider", :price=>"$0.000328"}
+ {:name=>"FidentiaX", :price=>"$0.000328"}
+ {:name=>"InsurePal", :price=>"$0.000328"}
+ {:name=>"TransferCoin", :price=>"$0.000328"}
+ {:name=>"FlorinCoin", :price=>"$0.000328"}
+ {:name=>"CoinPoker", :price=>"$0.000328"}
+ {:name=>"MUSE", :price=>"$0.000328"}
+ {:name=>"LUXCoin", :price=>"$0.000328"}
+ {:name=>"Remme", :price=>"$0.000328"}
+ {:name=>"AICHAIN", :price=>"$0.000328"}
+ {:name=>"CanYaCoin", :price=>"$0.000328"}
+ {:name=>"Banca", :price=>"$0.000328"}
+ {:name=>"True USD", :price=>"$0.000328"}
+ {:name=>"TokenClub", :price=>"$0.000328"}
+ {:name=>"Debitum Network", :price=>"$0.000328"}
+ {:name=>"Energycoin", :price=>"$0.000328"}
+ {:name=>"LockChain", :price=>"$0.000328"}
+ {:name=>"OneRoot Network", :price=>"$0.000328"}
+ {:name=>"ToaCoin", :price=>"$0.000328"}
+ {:name=>"MyBit Token", :price=>"$0.000328"}
+ {:name=>"FoldingCoin", :price=>"$0.000328"}
+ {:name=>"Golos", :price=>"$0.000328"}
+ {:name=>"Measurable Da...", :price=>"$0.000328"}
+ {:name=>"Waves Communi...", :price=>"$0.000328"}
+ {:name=>"Boolberry", :price=>"$0.000328"}
+ {:name=>"GoldMint", :price=>"$0.000328"}
+ {:name=>"Gambit", :price=>"$0.000328"}
+ {:name=>"Nexium", :price=>"$0.000328"}
+ {:name=>"InvestFeed", :price=>"$0.000328"}
+ {:name=>"Auroracoin", :price=>"$0.000328"}
+ {:name=>"Open Trading ...", :price=>"$0.000328"}
+ {:name=>"B2BX", :price=>"$0.000328"}
+ {:name=>"BLUE", :price=>"$0.000328"}
+ {:name=>"Primas", :price=>"$0.000328"}
+ {:name=>"CargoX", :price=>"$0.000328"}
+ {:name=>"Rivetz", :price=>"$0.000328"}
+ {:name=>"Target Coin", :price=>"$0.000328"}
+ {:name=>"DubaiCoin", :price=>"$0.000328"}
+ {:name=>"HelloGold", :price=>"$0.000328"}
+ {:name=>"Aurora DAO", :price=>"$0.000328"}
+ {:name=>"Dynamic", :price=>"$0.000328"}
+ {:name=>"Block Array", :price=>"$0.000328"}
+ {:name=>"Chronobank", :price=>"$0.000328"}
+ {:name=>"TE-FOOD", :price=>"$0.000328"}
+ {:name=>"Hi Mutual Soc...", :price=>"$0.000328"}
+ {:name=>"Musicoin", :price=>"$0.000328"}
+ {:name=>"Rentberry", :price=>"$0.000328"}
+ {:name=>"Hackspace Cap...", :price=>"$0.000328"}
+ {:name=>"ATN", :price=>"$0.000328"}
+ {:name=>"Hacken", :price=>"$0.000328"}
+ {:name=>"GoByte", :price=>"$0.000328"}
+ {:name=>"ATBCoin", :price=>"$0.000328"}
+ {:name=>"DIMCOIN", :price=>"$0.000328"}
+ {:name=>"aXpire", :price=>"$0.000328"}
+ {:name=>"Sequence", :price=>"$0.000328"}
+ {:name=>"ClearCoin", :price=>"$0.000328"}
+ {:name=>"Hubii Network", :price=>"$0.000328"}
+ {:name=>"Syndicate", :price=>"$0.000328"}
+ {:name=>"Russian Miner...", :price=>"$0.000328"}
+ {:name=>"HEAT", :price=>"$0.000328"}
+ {:name=>"Mintcoin", :price=>"$0.000328"}
+ {:name=>"Pluton", :price=>"$0.000328"}
+ {:name=>"Quantum", :price=>"$0.000328"}
+ {:name=>"Neutron", :price=>"$0.000328"}
+ {:name=>"CHIPS", :price=>"$0.000328"}
+ {:name=>"SportyCo", :price=>"$0.000328"}
+ {:name=>"Stealthcoin", :price=>"$0.000328"}
+ {:name=>"Solaris", :price=>"$0.000328"}
+ {:name=>"Etheroll", :price=>"$0.000328"}
+ {:name=>"Bounty0x", :price=>"$0.000328"}
+ {:name=>"Leadcoin", :price=>"$0.000328"}
+ {:name=>"Eroscoin", :price=>"$0.000328"}
+ {:name=>"Mysterium", :price=>"$0.000328"}
+ {:name=>"Hydro Protocol", :price=>"$0.000328"}
+ {:name=>"U.CASH", :price=>"$0.000328"}
+ {:name=>"Sphere", :price=>"$0.000328"}
+ {:name=>"Spectrecoin", :price=>"$0.000328"}
+ {:name=>"Polis", :price=>"$0.000328"}
+ {:name=>"Bulwark", :price=>"$0.000328"}
+ {:name=>"PinkCoin", :price=>"$0.000328"}
+ {:name=>"Profile Utili...", :price=>"$0.000328"}
+ {:name=>"Flixxo", :price=>"$0.000328"}
+ {:name=>"Novacoin", :price=>"$0.000328"}
+ {:name=>"Devery", :price=>"$0.000328"}
+ {:name=>"Ethorse", :price=>"$0.000328"}
+ {:name=>"EZToken", :price=>"$0.000328"}
+ {:name=>"Bitcrystals", :price=>"$0.000328"}
+ {:name=>"Ink Protocol", :price=>"$0.000328"}
+ {:name=>"Tokes", :price=>"$0.000328"}
+ {:name=>"AirToken", :price=>"$0.000328"}
+ {:name=>"CoinFi", :price=>"$0.000328"}
+ {:name=>"Elixir", :price=>"$0.000328"}
+ {:name=>"DopeCoin", :price=>"$0.000328"}
+ {:name=>"Circuits of V...", :price=>"$0.000328"}
+ {:name=>"CVCoin", :price=>"$0.000328"}
+ {:name=>"MedicCoin", :price=>"$0.000328"}
+ {:name=>"Playkey", :price=>"$0.000328"}
+ {:name=>"ATLANT", :price=>"$0.000328"}
+ {:name=>"Curecoin", :price=>"$0.000328"}
+ {:name=>"Guaranteed Et...", :price=>"$0.000328"}
+ {:name=>"Pandacoin", :price=>"$0.000328"}
+ {:name=>"LALA World", :price=>"$0.000328"}
+ {:name=>"ColossusXT", :price=>"$0.000328"}
+ {:name=>"Travelflex", :price=>"$0.000328"}
+ {:name=>"Espers", :price=>"$0.000328"}
+ {:name=>"MaxCoin", :price=>"$0.000328"}
+ {:name=>"BitDice", :price=>"$0.000328"}
+ {:name=>"Monkey Project", :price=>"$0.000328"}
+ {:name=>"Dotcoin", :price=>"$0.000328"}
+ {:name=>"Zilla", :price=>"$0.000328"}
+ {:name=>"AidCoin", :price=>"$0.000328"}
+ {:name=>"Interplanetar...", :price=>"$0.000328"}
+ {:name=>"Worldcore", :price=>"$0.000328"}
+ {:name=>"Internet of P...", :price=>"$0.000328"}
+ {:name=>"Ties.DB", :price=>"$0.000328"}
+ {:name=>"OBITS", :price=>"$0.000328"}
+ {:name=>"REBL", :price=>"$0.000328"}
+ {:name=>"Atmos", :price=>"$0.000328"}
+ {:name=>"Aventus", :price=>"$0.000328"}
+ {:name=>"Pirl", :price=>"$0.000328"}
+ {:name=>"Spectre.ai Ut...", :price=>"$0.000328"}
+ {:name=>"GeoCoin", :price=>"$0.000328"}
+ {:name=>"adbank", :price=>"$0.000328"}
+ {:name=>"Kore", :price=>"$0.000328"}
+ {:name=>"Insights Network", :price=>"$0.000328"}
+ {:name=>"Change", :price=>"$0.000328"}
+ {:name=>"ClearPoll", :price=>"$0.000328"}
+ {:name=>"ArtByte", :price=>"$0.000328"}
+ {:name=>"Smartlands", :price=>"$0.000328"}
+ {:name=>"NuBits", :price=>"$0.000328"}
+ {:name=>"Payfair", :price=>"$0.000328"}
+ {:name=>"DCORP", :price=>"$0.000328"}
+ {:name=>"APX", :price=>"$0.000328"}
+ {:name=>"Gatcoin", :price=>"$0.000328"}
+ {:name=>"BlockCAT", :price=>"$0.000328"}
+ {:name=>"Tracto", :price=>"$0.000328"}
+ {:name=>"GET Protocol", :price=>"$0.000328"}
+ {:name=>"Leverj", :price=>"$0.000328"}
+ {:name=>"Pesetacoin", :price=>"$0.000328"}
+ {:name=>"Memetic / Pep...", :price=>"$0.000328"}
+ {:name=>"Hexx", :price=>"$0.000328"}
+ {:name=>"Synergy", :price=>"$0.000328"}
+ {:name=>"Breakout Stake", :price=>"$0.000328"}
+ {:name=>"Sprouts", :price=>"$0.000328"}
+ {:name=>"Dovu", :price=>"$0.000328"}
+ {:name=>"CryptoPing", :price=>"$0.000328"}
+ {:name=>"Qwark", :price=>"$0.000328"}
+ {:name=>"ExclusiveCoin", :price=>"$0.000328"}
+ {:name=>"Viuly", :price=>"$0.000328"}
+ {:name=>"GoldCoin", :price=>"$0.000328"}
+ {:name=>"Voise", :price=>"$0.000328"}
+ {:name=>"Iungo", :price=>"$0.000328"}
+ {:name=>"TrueFlip", :price=>"$0.000328"}
+ {:name=>"BitcoinZ", :price=>"$0.000328"}
+ {:name=>"AdShares", :price=>"$0.000328"}
+ {:name=>"Astro", :price=>"$0.000328"}
+ {:name=>"Uniform Fisca...", :price=>"$0.000328"}
+ {:name=>"Education Eco...", :price=>"$0.000328"}
+ {:name=>"BioCoin", :price=>"$0.000328"}
+ {:name=>"Publica", :price=>"$0.000328"}
+ {:name=>"IP Exchange", :price=>"$0.000328"}
+ {:name=>"EuropeCoin", :price=>"$0.000328"}
+ {:name=>"Opus", :price=>"$0.000328"}
+ {:name=>"LIFE", :price=>"$0.000328"}
+ {:name=>"Bitmark", :price=>"$0.000328"}
+ {:name=>"HEROcoin", :price=>"$0.000328"}
+ {:name=>"Primalbase Token", :price=>"$0.000328"}
+ {:name=>"FedoraCoin", :price=>"$0.000328"}
+ {:name=>"GCN Coin", :price=>"$0.000328"}
+ {:name=>"Starta", :price=>"$0.000328"}
+ {:name=>"PiplCoin", :price=>"$0.000328"}
+ {:name=>"CannabisCoin", :price=>"$0.000328"}
+ {:name=>"LOCIcoin", :price=>"$0.000328"}
+ {:name=>"Internxt", :price=>"$0.000328"}
+ {:name=>"CampusCoin", :price=>"$0.000328"}
+ {:name=>"Sether", :price=>"$0.000328"}
+ {:name=>"Bitcoin Plus", :price=>"$0.000328"}
+ {:name=>"ShareX", :price=>"$0.000328"}
+ {:name=>"Sumokoin", :price=>"$0.000328"}
+ {:name=>"VeriumReserve", :price=>"$0.000328"}
+ {:name=>"RussiaCoin", :price=>"$0.000328"}
+ {:name=>"FirstCoin", :price=>"$0.000328"}
+ {:name=>"vTorrent", :price=>"$0.000328"}
+ {:name=>"Bezop", :price=>"$0.000328"}
+ {:name=>"Darcrus", :price=>"$0.000328"}
+ {:name=>"Bitcloud", :price=>"$0.000328"}
+ {:name=>"Terracoin", :price=>"$0.000328"}
+ {:name=>"Jiyo", :price=>"$0.000328"}
+ {:name=>"Graft", :price=>"$0.000328"}
+ {:name=>"Bela", :price=>"$0.000328"}
+ {:name=>"Lampix", :price=>"$0.000328"}
+ {:name=>"eBitcoin", :price=>"$0.000328"}
+ {:name=>"ZrCoin", :price=>"$0.000328"}
+ {:name=>"2GIVE", :price=>"$0.000328"}
+ {:name=>"Hush", :price=>"$0.000328"}
+ {:name=>"HyperStake", :price=>"$0.000328"}
+ {:name=>"eBoost", :price=>"$0.000328"}
+ {:name=>"Riecoin", :price=>"$0.000328"}
+ {:name=>"Starbase", :price=>"$0.000328"}
+ {:name=>"Creditbit", :price=>"$0.000328"}
+ {:name=>"Social Send", :price=>"$0.000328"}
+ {:name=>"AudioCoin", :price=>"$0.000328"}
+ {:name=>"Breakout", :price=>"$0.000328"}
+ {:name=>"Global Curren...", :price=>"$0.000328"}
+ {:name=>"Denarius", :price=>"$0.000328"}
+ {:name=>"Tokenbox", :price=>"$0.000328"}
+ {:name=>"Monoeci", :price=>"$0.000328"}
+ {:name=>"LuckChain", :price=>"$0.000328"}
+ {:name=>"Hawala.Today", :price=>"$0.000328"}
+ {:name=>"Mercury Protocol", :price=>"$0.000328"}
+ {:name=>"DigiPulse", :price=>"$0.000328"}
+ {:name=>"RefToken", :price=>"$0.000328"}
+ {:name=>"vSlice", :price=>"$0.000328"}
+ {:name=>"Blitzcash", :price=>"$0.000328"}
+ {:name=>"Cryptopay", :price=>"$0.000328"}
+ {:name=>"Sharpe Platfo...", :price=>"$0.000328"}
+ {:name=>"Ethereum Movi...", :price=>"$0.000328"}
+ {:name=>"Verify", :price=>"$0.000328"}
+ {:name=>"Sociall", :price=>"$0.000328"}
+ {:name=>"BuzzCoin", :price=>"$0.000328"}
+ {:name=>"COPYTRACK", :price=>"$0.000328"}
+ {:name=>"Bitswift", :price=>"$0.000328"}
+ {:name=>"EquiTrader", :price=>"$0.000328"}
+ {:name=>"Zeitcoin", :price=>"$0.000328"}
+ {:name=>"Bonpay", :price=>"$0.000328"}
+ {:name=>"Nework", :price=>"$0.000328"}
+ {:name=>"EXRNchain", :price=>"$0.000328"}
+ {:name=>"Karbo", :price=>"$0.000328"}
+ {:name=>"Dether", :price=>"$0.000328"}
+ {:name=>"e-Gulden", :price=>"$0.000328"}
+ {:name=>"1World", :price=>"$0.000328"}
+ {:name=>"Autonio", :price=>"$0.000328"}
+ {:name=>"SpreadCoin", :price=>"$0.000328"}
+ {:name=>"Aigang", :price=>"$0.000328"}
+ {:name=>"JET8", :price=>"$0.000328"}
+ {:name=>"Zephyr", :price=>"$0.000328"}
+ {:name=>"Crave", :price=>"$0.000328"}
+ {:name=>"Experty", :price=>"$0.000328"}
+ {:name=>"Vsync", :price=>"$0.000328"}
+ {:name=>"Upfiring", :price=>"$0.000328"}
+ {:name=>"Sharechain", :price=>"$0.000328"}
+ {:name=>"XGOX", :price=>"$0.000328"}
+ {:name=>"Privatix", :price=>"$0.000328"}
+ {:name=>"Capricoin", :price=>"$0.000328"}
+ {:name=>"DNotes", :price=>"$0.000328"}
+ {:name=>"Obsidian", :price=>"$0.000328"}
+ {:name=>"HunterCoin", :price=>"$0.000328"}
+ {:name=>"TrustPlus", :price=>"$0.000328"}
+ {:name=>"EverGreenCoin", :price=>"$0.000328"}
+ {:name=>"Pure", :price=>"$0.000328"}
+ {:name=>"Chronologic", :price=>"$0.000328"}
+ {:name=>"Global Crypto...", :price=>"$0.000328"}
+ {:name=>"LatiumX", :price=>"$0.000328"}
+ {:name=>"MarteXcoin", :price=>"$0.000328"}
+ {:name=>"Elite", :price=>"$0.000328"}
+ {:name=>"Rupaya", :price=>"$0.000328"}
+ {:name=>"REAL", :price=>"$0.000328"}
+ {:name=>"Sexcoin", :price=>"$0.000328"}
+ {:name=>"MyWish", :price=>"$0.000328"}
+ {:name=>"ChainCoin", :price=>"$0.000328"}
+ {:name=>"LiteDoge", :price=>"$0.000328"}
+ {:name=>"Bitzeny", :price=>"$0.000328"}
+ {:name=>"Yocoin", :price=>"$0.000328"}
+ {:name=>"Qvolta", :price=>"$0.000328"}
+ {:name=>"Magi", :price=>"$0.000328"}
+ {:name=>"MicroMoney", :price=>"$0.000328"}
+ {:name=>"TeslaCoin", :price=>"$0.000328"}
+ {:name=>"TrezarCoin", :price=>"$0.000328"}
+ {:name=>"PutinCoin", :price=>"$0.000328"}
+ {:name=>"Ergo", :price=>"$0.000328"}
+ {:name=>"StarterCoin", :price=>"$0.000328"}
+ {:name=>"Rupee", :price=>"$0.000328"}
+ {:name=>"Creativecoin", :price=>"$0.000328"}
+ {:name=>"Magnet", :price=>"$0.000328"}
+ {:name=>"Coinlancer", :price=>"$0.000328"}
+ {:name=>"BitWhite", :price=>"$0.000328"}
+ {:name=>"MCAP", :price=>"$0.000328"}
+ {:name=>"FORCE", :price=>"$0.000328"}
+ {:name=>"Triaconta", :price=>"$0.000328"}
+ {:name=>"Blocklancer", :price=>"$0.000328"}
+ {:name=>"KekCoin", :price=>"$0.000328"}
+ {:name=>"Linx", :price=>"$0.000328"}
+ {:name=>"Kzcash", :price=>"$0.000328"}
+ {:name=>"BunnyCoin", :price=>"$0.000328"}
+ {:name=>"Regalcoin", :price=>"$0.000328"}
+ {:name=>"FLiK", :price=>"$0.000328"}
+ {:name=>"IntenseCoin", :price=>"$0.000328"}
+ {:name=>"Oceanlab", :price=>"$0.000328"}
+ {:name=>"Sense", :price=>"$0.000328"}
+ {:name=>"BlueCoin", :price=>"$0.000328"}
+ {:name=>"Ignition", :price=>"$0.000328"}
+ {:name=>"Tidex Token", :price=>"$0.000328"}
+ {:name=>"UnbreakableCoin", :price=>"$0.000328"}
+ {:name=>"Anoncoin", :price=>"$0.000328"}
+ {:name=>"InPay", :price=>"$0.000328"}
+ {:name=>"NobleCoin", :price=>"$0.000328"}
+ {:name=>"ProCurrency", :price=>"$0.000328"}
+ {:name=>"BiblePay", :price=>"$0.000328"}
+ {:name=>"onG.social", :price=>"$0.000328"}
+ {:name=>"Pylon Network", :price=>"$0.000328"}
+ {:name=>"SkinCoin", :price=>"$0.000328"}
+ {:name=>"Adzcoin", :price=>"$0.000328"}
+ {:name=>"Innova", :price=>"$0.000328"}
+ {:name=>"Condensate", :price=>"$0.000328"}
+ {:name=>"Ellaism", :price=>"$0.000328"}
+ {:name=>"Indorse Token", :price=>"$0.000328"}
+ {:name=>"Footy Cash", :price=>"$0.000328"}
+ {:name=>"Ethbits", :price=>"$0.000328"}
+ {:name=>"Stipend", :price=>"$0.000328"}
+ {:name=>"ELTCOIN", :price=>"$0.000328"}
+ {:name=>"BitTokens", :price=>"$0.000328"}
+ {:name=>"Zero", :price=>"$0.000328"}
+ {:name=>"Argentum", :price=>"$0.000328"}
+ {:name=>"DigitalPrice", :price=>"$0.000328"}
+ {:name=>"DRP Utility", :price=>"$0.000328"}
+ {:name=>"Speed Mining ...", :price=>"$0.000328"}
+ {:name=>"Accelerator N...", :price=>"$0.000328"}
+ {:name=>"Octoin Coin", :price=>"$0.000328"}
+ {:name=>"Interstellar ...", :price=>"$0.000328"}
+ {:name=>"Miners' Rewar...", :price=>"$0.000328"}
+ {:name=>"Unitus", :price=>"$0.000328"}
+ {:name=>"MAZA", :price=>"$0.000328"}
+ {:name=>"Kobocoin", :price=>"$0.000328"}
+ {:name=>"ArcticCoin", :price=>"$0.000328"}
+ {:name=>"IncaKoin", :price=>"$0.000328"}
+ {:name=>"High Voltage", :price=>"$0.000328"}
+ {:name=>"WorldCoin", :price=>"$0.000328"}
+ {:name=>"42-coin", :price=>"$0.000328"}
+ {:name=>"StarCredits", :price=>"$0.000328"}
+ {:name=>"SmileyCoin", :price=>"$0.000328"}
+ {:name=>"DeusCoin", :price=>"$0.000328"}
+ {:name=>"bitJob", :price=>"$0.000328"}
+ {:name=>"Growers Inter...", :price=>"$0.000328"}
+ {:name=>"Zetacoin", :price=>"$0.000328"}
+ {:name=>"Zennies", :price=>"$0.000328"}
+ {:name=>"Moin", :price=>"$0.000328"}
+ {:name=>"PetroDollar", :price=>"$0.000328"}
+ {:name=>"MagicCoin", :price=>"$0.000328"}
+ {:name=>"Sovereign Hero", :price=>"$0.000328"}
+ {:name=>"Embers", :price=>"$0.000328"}
+ {:name=>"Kolion", :price=>"$0.000328"}
+ {:name=>"Bytecent", :price=>"$0.000328"}
+ {:name=>"Legends Room", :price=>"$0.000328"}
+ {:name=>"PlatinumBAR", :price=>"$0.000328"}
+ {:name=>"VIVO", :price=>"$0.000328"}
+ {:name=>"Unify", :price=>"$0.000328"}
+ {:name=>"Canada eCoin", :price=>"$0.000328"}
+ {:name=>"WandX", :price=>"$0.000328"}
+ {:name=>"Ace", :price=>"$0.000328"}
+ {:name=>"STRAKS", :price=>"$0.000328"}
+ {:name=>"DraftCoin", :price=>"$0.000328"}
+ {:name=>"Photon", :price=>"$0.000328"}
+ {:name=>"Deutsche eMark", :price=>"$0.000328"}
+ {:name=>"Dinastycoin", :price=>"$0.000328"}
+ {:name=>"Shekel", :price=>"$0.000328"}
+ {:name=>"Wild Crypto", :price=>"$0.000328"}
+ {:name=>"SagaCoin", :price=>"$0.000328"}
+ {:name=>"BritCoin", :price=>"$0.000328"}
+ {:name=>"EtherSportz", :price=>"$0.000328"}
+ {:name=>"CryptoCarbon", :price=>"$0.000328"}
+ {:name=>"Authorship", :price=>"$0.000328"}
+ {:name=>"Netko", :price=>"$0.000328"}
+ {:name=>"Nexxus", :price=>"$0.000328"}
+ {:name=>"PlusCoin", :price=>"$0.000328"}
+ {:name=>"DFSCoin", :price=>"$0.000328"}
+ {:name=>"Happycoin", :price=>"$0.000328"}
+ {:name=>"NuShares", :price=>"$0.000328"}
+ {:name=>"PeepCoin", :price=>"$0.000328"}
+ {:name=>"ArbitrageCT", :price=>"$0.000328"}
+ {:name=>"Centra", :price=>"$0.000328"}
+ {:name=>"Emphy", :price=>"$0.000328"}
+ {:name=>"iEthereum", :price=>"$0.000328"}
+ {:name=>"The Cypherfunks", :price=>"$0.000328"}
+ {:name=>"Soma", :price=>"$0.000328"}
+ {:name=>"FujiCoin", :price=>"$0.000328"}
+ {:name=>"Suretly", :price=>"$0.000328"}
+ {:name=>"Tigereum", :price=>"$0.000328"}
+ {:name=>"Startcoin", :price=>"$0.000328"}
+ {:name=>"Piggycoin", :price=>"$0.000328"}
+ {:name=>"Equal", :price=>"$0.000328"}
+ {:name=>"Digitalcoin", :price=>"$0.000328"}
+ {:name=>"Guncoin", :price=>"$0.000328"}
+ {:name=>"TittieCoin", :price=>"$0.000328"}
+ {:name=>"CrowdCoin", :price=>"$0.000328"}
+ {:name=>"BitBar", :price=>"$0.000328"}
+ {:name=>"Bata", :price=>"$0.000328"}
+ {:name=>"Bitgem", :price=>"$0.000328"}
+ {:name=>"Bit20", :price=>"$0.000328"}
+ {:name=>"Machinecoin", :price=>"$0.000328"}
+ {:name=>"OP Coin", :price=>"$0.000328"}
+ {:name=>"BigUp", :price=>"$0.000328"}
+ {:name=>"Kubera Coin", :price=>"$0.000328"}
+ {:name=>"RouletteToken", :price=>"$0.000328"}
+ {:name=>"Billionaire T...", :price=>"$0.000328"}
+ {:name=>"GanjaCoin", :price=>"$0.000328"}
+ {:name=>"Copico", :price=>"$0.000328"}
+ {:name=>"MACRON", :price=>"$0.000328"}
+ {:name=>"Ethereum Cash", :price=>"$0.000328"}
+ {:name=>"TrumpCoin", :price=>"$0.000328"}
+ {:name=>"AquariusCoin", :price=>"$0.000328"}
+ {:name=>"Cryptonite", :price=>"$0.000328"}
+ {:name=>"LeviarCoin", :price=>"$0.000328"}
+ {:name=>"Nyancoin", :price=>"$0.000328"}
+ {:name=>"TOKYO", :price=>"$0.000328"}
+ {:name=>"QubitCoin", :price=>"$0.000328"}
+ {:name=>"bitSilver", :price=>"$0.000328"}
+ {:name=>"Dashcoin", :price=>"$0.000328"}
+ {:name=>"DROXNE", :price=>"$0.000328"}
+ {:name=>"Elcoin", :price=>"$0.000328"}
+ {:name=>"TEKcoin", :price=>"$0.000328"}
+ {:name=>"AdCoin", :price=>"$0.000328"}
+ {:name=>"Minereum", :price=>"$0.000328"}
+ {:name=>"Bitcoin Scrypt", :price=>"$0.000328"}
+ {:name=>"Bitdeal", :price=>"$0.000328"}
+ {:name=>"GoldBlocks", :price=>"$0.000328"}
+ {:name=>"Bitair", :price=>"$0.000328"}
+ {:name=>"Rimbit", :price=>"$0.000328"}
+ {:name=>"KushCoin", :price=>"$0.000328"}
+ {:name=>"ERC20", :price=>"$0.000328"}
+ {:name=>"GlassCoin", :price=>"$0.000328"}
+ {:name=>"Litecoin Plus", :price=>"$0.000328"}
+ {:name=>"Kurrent", :price=>"$0.000328"}
+ {:name=>"Qbic", :price=>"$0.000328"}
+ {:name=>"Mao Zedong", :price=>"$0.000328"}
+ {:name=>"Steneum Coin", :price=>"$0.000328"}
+ {:name=>"DaxxCoin", :price=>"$0.000328"}
+ {:name=>"PureVidz", :price=>"$0.000328"}
+ {:name=>"Bitcoin Fast", :price=>"$0.000328"}
+ {:name=>"RevolverCoin", :price=>"$0.000328"}
+ {:name=>"Garlicoin", :price=>"$0.000328"}
+ {:name=>"PayCoin", :price=>"$0.000328"}
+ {:name=>"Cryptojacks", :price=>"$0.000328"}
+ {:name=>"WhaleCoin", :price=>"$0.000328"}
+ {:name=>"Centurion", :price=>"$0.000328"}
+ {:name=>"MojoCoin", :price=>"$0.000328"}
+ {:name=>"Galactrum", :price=>"$0.000328"}
+ {:name=>"Sugar Exchange", :price=>"$0.000328"}
+ {:name=>"PostCoin", :price=>"$0.000328"}
+ {:name=>"Onix", :price=>"$0.000328"}
+ {:name=>"RonPaulCoin", :price=>"$0.000328"}
+ {:name=>"bitGold", :price=>"$0.000328"}
+ {:name=>"Sterlingcoin", :price=>"$0.000328"}
+ {:name=>"Philosopher S...", :price=>"$0.000328"}
+ {:name=>"Nekonium", :price=>"$0.000328"}
+ {:name=>"Quebecoin", :price=>"$0.000328"}
+ {:name=>"CoinonatX", :price=>"$0.000328"}
+ {:name=>"CarTaxi Token", :price=>"$0.000328"}
+ {:name=>"Blakecoin", :price=>"$0.000328"}
+ {:name=>"GPU Coin", :price=>"$0.000328"}
+ {:name=>"Ethereum Gold", :price=>"$0.000328"}
+ {:name=>"CryptoInsight", :price=>"$0.000328"}
+ {:name=>"Speedcash", :price=>"$0.000328"}
+ {:name=>"Pakcoin", :price=>"$0.000328"}
+ {:name=>"Zlancer", :price=>"$0.000328"}
+ {:name=>"GlobalToken", :price=>"$0.000328"}
+ {:name=>"HiCoin", :price=>"$0.000328"}
+ {:name=>"ParkByte", :price=>"$0.000328"}
+ {:name=>"Shadow Token", :price=>"$0.000328"}
+ {:name=>"Virtacoin", :price=>"$0.000328"}
+ {:name=>"Theresa May Coin", :price=>"$0.000328"}
+ {:name=>"Phantomx", :price=>"$0.000328"}
+ {:name=>"Ethereum Dark", :price=>"$0.000328"}
+ {:name=>"Bolivarcoin", :price=>"$0.000328"}
+ {:name=>"Impact", :price=>"$0.000328"}
+ {:name=>"Prime-XI", :price=>"$0.000328"}
+ {:name=>"Pascal Lite", :price=>"$0.000328"}
+ {:name=>"Desire", :price=>"$0.000328"}
+ {:name=>"Global Tour Coin", :price=>"$0.000328"}
+ {:name=>"Influxcoin", :price=>"$0.000328"}
+ {:name=>"808Coin", :price=>"$0.000328"}
+ {:name=>"Kayicoin", :price=>"$0.000328"}
+ {:name=>"Tokugawa", :price=>"$0.000328"}
+ {:name=>"VoteCoin", :price=>"$0.000328"}
+ {:name=>"bitEUR", :price=>"$0.000328"}
+ {:name=>"BERNcash", :price=>"$0.000328"}
+ {:name=>"MustangCoin", :price=>"$0.000328"}
+ {:name=>"ParallelCoin", :price=>"$0.000328"}
+ {:name=>"OctoCoin", :price=>"$0.000328"}
+ {:name=>"Pioneer Coin", :price=>"$0.000328"}
+ {:name=>"AgrolifeCoin", :price=>"$0.000328"}
+ {:name=>"Acoin", :price=>"$0.000328"}
+ {:name=>"ChanCoin", :price=>"$0.000328"}
+ {:name=>"StrongHands", :price=>"$0.000328"}
+ {:name=>"LiteBitcoin", :price=>"$0.000328"}
+ {:name=>"Trident Group", :price=>"$0.000328"}
+ {:name=>"BumbaCoin", :price=>"$0.000328"}
+ {:name=>"PoSToken", :price=>"$0.000328"}
+ {:name=>"Dalecoin", :price=>"$0.000328"}
+ {:name=>"SOILcoin", :price=>"$0.000328"}
+ {:name=>"ZoZoCoin", :price=>"$0.000328"}
+ {:name=>"Coinonat", :price=>"$0.000328"}
+ {:name=>"Eurocoin", :price=>"$0.000328"}
+ {:name=>"Virta Unique ...", :price=>"$0.000328"}
+ {:name=>"Marijuanacoin", :price=>"$0.000328"}
+ {:name=>"GoldPieces", :price=>"$0.000328"}
+ {:name=>"Neuro", :price=>"$0.000328"}
+ {:name=>"BitAsean", :price=>"$0.000328"}
+ {:name=>"Digital Rupees", :price=>"$0.000328"}
+ {:name=>"Cannation", :price=>"$0.000328"}
+ {:name=>"Allion", :price=>"$0.000328"}
+ {:name=>"SongCoin", :price=>"$0.000328"}
+ {:name=>"BipCoin", :price=>"$0.000328"}
+ {:name=>"HomeBlockCoin", :price=>"$0.000328"}
+ {:name=>"Asiadigicoin", :price=>"$0.000328"}
+ {:name=>"VapersCoin", :price=>"$0.000328"}
+ {:name=>"Master Swiscoin", :price=>"$0.000328"}
+ {:name=>"Useless Ether...", :price=>"$0.000328"}
+ {:name=>"Virtacoinplus", :price=>"$0.000328"}
+ {:name=>"LiteCoin Ultra", :price=>"$0.000328"}
+ {:name=>"Royal Kingdom...", :price=>"$0.000328"}
+ {:name=>"BOAT", :price=>"$0.000328"}
+ {:name=>"Cthulhu Offer...", :price=>"$0.000328"}
+ {:name=>"GBCGoldCoin", :price=>"$0.000328"}
+ {:name=>"Torcoin", :price=>"$0.000328"}
+ {:name=>"PRCoin", :price=>"$0.000328"}
+ {:name=>"WomenCoin", :price=>"$0.000328"}
+ {:name=>"Coupecoin", :price=>"$0.000328"}
+ {:name=>"Madcoin", :price=>"$0.000328"}
+ {:name=>"Project-X", :price=>"$0.000328"}
+ {:name=>"HarmonyCoin", :price=>"$0.000328"}
+ {:name=>"Tristar Coin", :price=>"$0.000328"}
+ {:name=>"Digital Money...", :price=>"$0.000328"}
+ {:name=>"CaliphCoin", :price=>"$0.000328"}
+ {:name=>"POLY AI", :price=>"$0.000328"}
+ {:name=>"Cobinhood", :price=>"$0.000328"}
+ {:name=>"Maverick Chain", :price=>"$0.000328"}
+ {:name=>"The ChampCoin", :price=>"$0.000328"}
+ {:name=>"bitqy", :price=>"$0.000328"}
+ {:name=>"Hedge", :price=>"$0.000328"}
+ {:name=>"EarthCoin", :price=>"$0.000328"}
+ {:name=>"Ecobit", :price=>"$0.000328"}
+ {:name=>"KiloCoin", :price=>"$0.000328"}
+ {:name=>"Credo", :price=>"$0.000328"}
+ {:name=>"AsiaCoin", :price=>"$0.000328"}
+ {:name=>"E-coin", :price=>"$0.000328"}
+ {:name=>"Vcash", :price=>"$0.000328"}
+ {:name=>"DAO.Casino", :price=>"$0.000328"}
+ {:name=>"Xenon", :price=>"$0.000328"}
+ {:name=>"Farad", :price=>"$0.000328"}
+ {:name=>"EventChain", :price=>"$0.000328"}
+ {:name=>"Blockpool", :price=>"$0.000328"}
+ {:name=>"Ixcoin", :price=>"$0.000328"}
+ {:name=>"Vezt", :price=>"$0.000328"}
+ {:name=>"Quark", :price=>"$0.000328"}
+ {:name=>"Goodomy", :price=>"$0.000328"}
+ {:name=>"Jesus Coin", :price=>"$0.000328"}
+ {:name=>"Altcoin", :price=>"$0.000328"}
+ {:name=>"Bullion", :price=>"$0.000328"}
+ {:name=>"InflationCoin", :price=>"$0.000328"}
+ {:name=>"Masternodecoin", :price=>"$0.000328"}
+ {:name=>"Carboncoin", :price=>"$0.000328"}
+ {:name=>"EncryptoTel [...", :price=>"$0.000328"}
+ {:name=>"Bowhead", :price=>"$0.000328"}
+ {:name=>"LeafCoin", :price=>"$0.000328"}
+ {:name=>"REX", :price=>"$0.000328"}
+ {:name=>"FundYourselfNow", :price=>"$0.000328"}
+ {:name=>"BitBoost", :price=>"$0.000328"}
+ {:name=>"FlypMe", :price=>"$0.000328"}
+ {:name=>"Orbitcoin", :price=>"$0.000328"}
+ {:name=>"YashCoin", :price=>"$0.000328"}
+ {:name=>"Greencoin", :price=>"$0.000328"}
+ {:name=>"AurumCoin", :price=>"$0.000328"}
+ {:name=>"NEVERDIE", :price=>"$0.000328"}
+ {:name=>"Version", :price=>"$0.000328"}
+ {:name=>"Cream", :price=>"$0.000328"}
+ {:name=>"Woodcoin", :price=>"$0.000328"}
+ {:name=>"Shorty", :price=>"$0.000328"}
+ {:name=>"Etheriya", :price=>"$0.000328"}
+ {:name=>"Monster Byte", :price=>"$0.000328"}
+ {:name=>"Universe", :price=>"$0.000328"}
+ {:name=>"Commodity Ad ...", :price=>"$0.000328"}
+ {:name=>"FlutterCoin", :price=>"$0.000328"}
+ {:name=>"FuckToken", :price=>"$0.000328"}
+ {:name=>"MetalCoin", :price=>"$0.000328"}
+ {:name=>"ICO OpenLedger", :price=>"$0.000328"}
+ {:name=>"Ultimate Secu...", :price=>"$0.000328"}
+ {:name=>"Fantomcoin", :price=>"$0.000328"}
+ {:name=>"InsaneCoin", :price=>"$0.000328"}
+ {:name=>"SuperCoin", :price=>"$0.000328"}
+ {:name=>"ShadowCash", :price=>"$0.000328"}
+ {:name=>"UniCoin", :price=>"$0.000328"}
+ {:name=>"PopularCoin", :price=>"$0.000328"}
+ {:name=>"Renos", :price=>"$0.000328"}
+ {:name=>"Bitpark Coin", :price=>"$0.000328"}
+ {:name=>"HitCoin", :price=>"$0.000328"}
+ {:name=>"NetCoin", :price=>"$0.000328"}
+ {:name=>"HoboNickels", :price=>"$0.000328"}
+ {:name=>"Intelligent T...", :price=>"$0.000328"}
+ {:name=>"EthBet", :price=>"$0.000328"}
+ {:name=>"Trollcoin", :price=>"$0.000328"}
+ {:name=>"I0Coin", :price=>"$0.000328"}
+ {:name=>"Global Jobcoin", :price=>"$0.000328"}
+ {:name=>"Bitradio", :price=>"$0.000328"}
+ {:name=>"Jetcoin", :price=>"$0.000328"}
+ {:name=>"Megacoin", :price=>"$0.000328"}
+ {:name=>"Skeincoin", :price=>"$0.000328"}
+ {:name=>"Bitstar", :price=>"$0.000328"}
+ {:name=>"Triangles", :price=>"$0.000328"}
+ {:name=>"SwagBucks", :price=>"$0.000328"}
+ {:name=>"Elementrem", :price=>"$0.000328"}
+ {:name=>"LanaCoin", :price=>"$0.000328"}
+ {:name=>"BTCtalkcoin", :price=>"$0.000328"}
+ {:name=>"Fastcoin", :price=>"$0.000328"}
+ {:name=>"Valorbit", :price=>"$0.000328"}
+ {:name=>"HOdlcoin", :price=>"$0.000328"}
+ {:name=>"BlazeCoin", :price=>"$0.000328"}
+ {:name=>"Opal", :price=>"$0.000328"}
+ {:name=>"Manna", :price=>"$0.000328"}
+ {:name=>"Phoenixcoin", :price=>"$0.000328"}
+ {:name=>"Datacoin", :price=>"$0.000328"}
+ {:name=>"Bitcurrency", :price=>"$0.000328"}
+ {:name=>"UltraCoin", :price=>"$0.000328"}
+ {:name=>"GAIA", :price=>"$0.000328"}
+ {:name=>"Flycoin", :price=>"$0.000328"}
+ {:name=>"Aricoin", :price=>"$0.000328"}
+ {:name=>"SmartCoin", :price=>"$0.000328"}
+ {:name=>"bitBTC", :price=>"$0.000328"}
+ {:name=>"iTicoin", :price=>"$0.000328"}
+ {:name=>"Bitcoin Red", :price=>"$0.000328"}
+ {:name=>"Cypher", :price=>"$0.000328"}
+ {:name=>"DigiCube", :price=>"$0.000328"}
+ {:name=>"Motocoin", :price=>"$0.000328"}
+ {:name=>"TagCoin", :price=>"$0.000328"}
+ {:name=>"Halcyon", :price=>"$0.000328"}
+ {:name=>"Joulecoin", :price=>"$0.000328"}
+ {:name=>"Scorecoin", :price=>"$0.000328"}
+ {:name=>"eBitcoinCash", :price=>"$0.000328"}
+ {:name=>"Tattoocoin (S...", :price=>"$0.000328"}
+ {:name=>"DigitalDevelo...", :price=>"$0.000328"}
+ {:name=>"AmberCoin", :price=>"$0.000328"}
+ {:name=>"Cashcoin", :price=>"$0.000328"}
+ {:name=>"Coin(O)", :price=>"$0.000328"}
+ {:name=>"WavesGo", :price=>"$0.000328"}
+ {:name=>"Truckcoin", :price=>"$0.000328"}
+ {:name=>"Bitz", :price=>"$0.000328"}
+ {:name=>"Visio", :price=>"$0.000328"}
+ {:name=>"Crystal Clear ", :price=>"$0.000328"}
+ {:name=>"Signatum", :price=>"$0.000328"}
+ {:name=>"Evil Coin", :price=>"$0.000328"}
+ {:name=>"Golfcoin", :price=>"$0.000328"}
+ {:name=>"NevaCoin", :price=>"$0.000328"}
+ {:name=>"Dix Asset", :price=>"$0.000328"}
+ {:name=>"Titcoin", :price=>"$0.000328"}
+ {:name=>"SatoshiMadness", :price=>"$0.000328"}
+ {:name=>"CannaCoin", :price=>"$0.000328"}
+ {:name=>"Eternity", :price=>"$0.000328"}
+ {:name=>"Mineum", :price=>"$0.000328"}
+ {:name=>"PX", :price=>"$0.000328"}
+ {:name=>"Marscoin", :price=>"$0.000328"}
+ {:name=>"iCoin", :price=>"$0.000328"}
+ {:name=>"Tigercoin", :price=>"$0.000328"}
+ {:name=>"SecureCoin", :price=>"$0.000328"}
+ {:name=>"ChessCoin", :price=>"$0.000328"}
+ {:name=>"8Bit", :price=>"$0.000328"}
+ {:name=>"Helleniccoin", :price=>"$0.000328"}
+ {:name=>"Prototanium", :price=>"$0.000328"}
+ {:name=>"Freicoin", :price=>"$0.000328"}
+ {:name=>"GameUnits", :price=>"$0.000328"}
+ {:name=>"Bankcoin", :price=>"$0.000328"}
+ {:name=>"BlockPay", :price=>"$0.000328"}
+ {:name=>"Octanox", :price=>"$0.000328"}
+ {:name=>"BriaCoin", :price=>"$0.000328"}
+ {:name=>"SproutsExtreme", :price=>"$0.000328"}
+ {:name=>"Gapcoin", :price=>"$0.000328"}
+ {:name=>"Ammo Reloaded", :price=>"$0.000328"}
+ {:name=>"Atomic Coin", :price=>"$0.000328"}
+ {:name=>"Fujinto", :price=>"$0.000328"}
+ {:name=>"Newbium", :price=>"$0.000328"}
+ {:name=>"Emerald Crypto", :price=>"$0.000328"}
+ {:name=>"IslaCoin", :price=>"$0.000328"}
+ {:name=>"GlobalCoin", :price=>"$0.000328"}
+ {:name=>"300 Token", :price=>"$0.000328"}
+ {:name=>"Darsek", :price=>"$0.000328"}
+ {:name=>"EcoCoin", :price=>"$0.000328"}
+ {:name=>"LeaCoin", :price=>"$0.000328"}
+ {:name=>"Xios", :price=>"$0.000328"}
+ {:name=>"Coin2.1", :price=>"$0.000328"}
+ {:name=>"Ratecoin", :price=>"$0.000328"}
+ {:name=>"LiteBar", :price=>"$0.000328"}
+ {:name=>"Rubies", :price=>"$0.000328"}
+ {:name=>"Abjcoin", :price=>"$0.000328"}
+ {:name=>"Swing", :price=>"$0.000328"}
+ {:name=>"Aerium", :price=>"$0.000328"}
+ {:name=>"Senderon", :price=>"$0.000328"}
+ {:name=>"IrishCoin", :price=>"$0.000328"}
+ {:name=>"Advanced Inte...", :price=>"$0.000328"}
+ {:name=>"AmsterdamCoin", :price=>"$0.000328"}
+ {:name=>"Independent M...", :price=>"$0.000328"}
+ {:name=>"C-Bit", :price=>"$0.000328"}
+ {:name=>"RedCoin", :price=>"$0.000328"}
+ {:name=>"SpaceCoin", :price=>"$0.000328"}
+ {:name=>"Zurcoin", :price=>"$0.000328"}
+ {:name=>"VirtualCoin", :price=>"$0.000328"}
+ {:name=>"Jin Coin", :price=>"$0.000328"}
+ {:name=>"BROTHER", :price=>"$0.000328"}
+ {:name=>"Grimcoin", :price=>"$0.000328"}
+ {:name=>"Catcoin", :price=>"$0.000328"}
+ {:name=>"Sativacoin", :price=>"$0.000328"}
+ {:name=>"Honey", :price=>"$0.000328"}
+ {:name=>"Firecoin", :price=>"$0.000328"}
+ {:name=>"Quatloo", :price=>"$0.000328"}
+ {:name=>"Chronos", :price=>"$0.000328"}
+ {:name=>"SecretCoin", :price=>"$0.000328"}
+ {:name=>"Confido", :price=>"$0.000328"}
+ {:name=>"Yacoin", :price=>"$0.000328"}
+ {:name=>"ICOBID", :price=>"$0.000328"}
+ {:name=>"TajCoin", :price=>"$0.000328"}
+ {:name=>"Ccore", :price=>"$0.000328"}
+ {:name=>"SixEleven", :price=>"$0.000328"}
+ {:name=>"BoostCoin", :price=>"$0.000328"}
+ {:name=>"ReeCoin", :price=>"$0.000328"}
+ {:name=>"Evotion", :price=>"$0.000328"}
+ {:name=>"Beatcoin", :price=>"$0.000328"}
+ {:name=>"Enigma", :price=>"$0.000328"}
+ {:name=>"PayCon", :price=>"$0.000328"}
+ {:name=>"GlobalBoost-Y", :price=>"$0.000328"}
+ {:name=>"Dollarcoin", :price=>"$0.000328"}
+ {:name=>"Polcoin", :price=>"$0.000328"}
+ {:name=>"YENTEN", :price=>"$0.000328"}
+ {:name=>"HempCoin", :price=>"$0.000328"}
+ {:name=>"GuccioneCoin", :price=>"$0.000328"}
+ {:name=>"Network Token", :price=>"$0.000328"}
+ {:name=>"Bitcoin 21", :price=>"$0.000328"}
+ {:name=>"Cabbage", :price=>"$0.000328"}
+ {:name=>"LendConnect", :price=>"$0.000328"}
+ {:name=>"BitCoal", :price=>"$0.000328"}
+ {:name=>"BitQuark", :price=>"$0.000328"}
+ {:name=>"Blackstar", :price=>"$0.000328"}
+ {:name=>"Elacoin", :price=>"$0.000328"}
+ {:name=>"SoonCoin", :price=>"$0.000328"}
+ {:name=>"Joincoin", :price=>"$0.000328"}
+ {:name=>"Ride My Car", :price=>"$0.000328"}
+ {:name=>"Creatio", :price=>"$0.000328"}
+ {:name=>"ZetaMicron", :price=>"$0.000328"}
+ {:name=>"FuzzBalls", :price=>"$0.000328"}
+ {:name=>"EagleCoin", :price=>"$0.000328"}
+ {:name=>"BnrtxCoin", :price=>"$0.000328"}
+ {:name=>"CryptoEscudo", :price=>"$0.000328"}
+ {:name=>"Metal Music Coin", :price=>"$0.000328"}
+ {:name=>"Money", :price=>"$0.000328"}
+ {:name=>"Sojourn", :price=>"$0.000328"}
+ {:name=>"FUNCoin", :price=>"$0.000328"}
+ {:name=>"CacheCoin", :price=>"$0.000328"}
+ {:name=>"Comet", :price=>"$0.000328"}
+ {:name=>"ExchangeN", :price=>"$0.000328"}
+ {:name=>"Peerguess", :price=>"$0.000328"}
+ {:name=>"Flaxscript", :price=>"$0.000328"}
+ {:name=>"AllSafe", :price=>"$0.000328"}
+ {:name=>"iDice", :price=>"$0.000328"}
+ {:name=>"Veltor", :price=>"$0.000328"}
+ {:name=>"StarCash Network", :price=>"$0.000328"}
+ {:name=>"Bolenum", :price=>"$0.000328"}
+ {:name=>"Roofs", :price=>"$0.000328"}
+ {:name=>"Eryllium", :price=>"$0.000328"}
+ {:name=>"BenjiRolls", :price=>"$0.000328"}
+ {:name=>"BillaryCoin", :price=>"$0.000328"}
+ {:name=>"Spots", :price=>"$0.000328"}
+ {:name=>"CompuCoin", :price=>"$0.000328"}
+ {:name=>"Californium", :price=>"$0.000328"}
+ {:name=>"Debitcoin", :price=>"$0.000328"}
+ {:name=>"Bitcoin Planet", :price=>"$0.000328"}
+ {:name=>"Jewels", :price=>"$0.000328"}
+ {:name=>"Shilling", :price=>"$0.000328"}
+ {:name=>"X-Coin", :price=>"$0.000328"}
+ {:name=>"PonziCoin", :price=>"$0.000328"}
+ {:name=>"FinCoin", :price=>"$0.000328"}
+ {:name=>"Artex Coin", :price=>"$0.000328"}
+ {:name=>"Gold Pressed ...", :price=>"$0.000328"}
+ {:name=>"WARP", :price=>"$0.000328"}
+ {:name=>"Solarflarecoin", :price=>"$0.000328"}
+ {:name=>"Kronecoin", :price=>"$0.000328"}
+ {:name=>"Uro", :price=>"$0.000328"}
+ {:name=>"QuazarCoin", :price=>"$0.000328"}
+ {:name=>"Printerium", :price=>"$0.000328"}
+ {:name=>"Mincoin", :price=>"$0.000328"}
+ {:name=>"VIP Tokens", :price=>"$0.000328"}
+ {:name=>"Zayedcoin", :price=>"$0.000328"}
+ {:name=>"Bitcedi", :price=>"$0.000328"}
+ {:name=>"KingN Coin", :price=>"$0.000328"}
+ {:name=>"Litecred", :price=>"$0.000328"}
+ {:name=>"MindCoin", :price=>"$0.000328"}
+ {:name=>"Iconic", :price=>"$0.000328"}
+ {:name=>"DAPPSTER", :price=>"$0.000328"}
+ {:name=>"Crypto", :price=>"$0.000328"}
+ {:name=>"SONO", :price=>"$0.000328"}
+ {:name=>"Dreamcoin", :price=>"$0.000328"}
+ {:name=>"Slevin", :price=>"$0.000328"}
+ {:name=>"Luna Coin", :price=>"$0.000328"}
+ {:name=>"BowsCoin", :price=>"$0.000328"}
+ {:name=>"CryptoWorldX ...", :price=>"$0.000328"}
+ {:name=>"Interzone", :price=>"$0.000328"}
+ {:name=>"JavaScript Token", :price=>"$0.000328"}
+ {:name=>"VectorAI", :price=>"$0.000328"}
+ {:name=>"Pulse", :price=>"$0.000328"}
+ {:name=>"ARbit", :price=>"$0.000328"}
+ {:name=>"BiosCrypto", :price=>"$0.000328"}
+ {:name=>"HealthyWormCoin", :price=>"$0.000328"}
+ {:name=>"MiloCoin", :price=>"$0.000328"}
+ {:name=>"Steps", :price=>"$0.000328"}
+ {:name=>"Remicoin", :price=>"$0.000328"}
+ {:name=>"PIECoin", :price=>"$0.000328"}
+ {:name=>"LetItRide", :price=>"$0.000328"}
+ {:name=>"GeertCoin", :price=>"$0.000328"}
+ {:name=>"TAGRcoin", :price=>"$0.000328"}
+ {:name=>"Ripto Bux", :price=>"$0.000328"}
+ {:name=>"CRTCoin", :price=>"$0.000328"}
+ {:name=>"Zonecoin", :price=>"$0.000328"}
+ {:name=>"ImpulseCoin", :price=>"$0.000328"}
+ {:name=>"Dollar Online", :price=>"$0.000328"}
+ {:name=>"Veros", :price=>"$0.000328"}
+ {:name=>"PlayerCoin", :price=>"$0.000328"}
+ {:name=>"RSGPcoin", :price=>"$0.000328"}
+ {:name=>"CoExistCoin", :price=>"$0.000328"}
+ {:name=>"Destiny", :price=>"$0.000328"}
+ {:name=>"PosEx", :price=>"$0.000328"}
+ {:name=>"Credence Coin", :price=>"$0.000328"}
+ {:name=>"JobsCoin", :price=>"$0.000328"}
+ {:name=>"PLNcoin", :price=>"$0.000328"}
+ {:name=>"Bitvolt", :price=>"$0.000328"}
+ {:name=>"Wild Beast Block", :price=>"$0.000328"}
+ {:name=>"OsmiumCoin", :price=>"$0.000328"}
+ {:name=>"AnarchistsPrime", :price=>"$0.000328"}
+ {:name=>"SydPak", :price=>"$0.000328"}
+ {:name=>"iBank", :price=>"$0.000328"}
+ {:name=>"Rawcoin", :price=>"$0.000328"}
+ {:name=>"Save and Gain", :price=>"$0.000328"}
+ {:name=>"BioBar", :price=>"$0.000328"}
+ {:name=>"Argus", :price=>"$0.000328"}
+ {:name=>"Elysium", :price=>"$0.000328"}
+ {:name=>"Coimatic 3.0", :price=>"$0.000328"}
+ {:name=>"NodeCoin", :price=>"$0.000328"}
+ {:name=>"SocialCoin", :price=>"$0.000328"}
+ {:name=>"P7Coin", :price=>"$0.000328"}
+ {:name=>"CrevaCoin", :price=>"$0.000328"}
+ {:name=>"Selfiecoin", :price=>"$0.000328"}
+ {:name=>"Coimatic 2.0", :price=>"$0.000328"}
+ {:name=>"Concoin", :price=>"$0.000328"}
+ {:name=>"GeyserCoin", :price=>"$0.000328"}
+ {:name=>"Magnum", :price=>"$0.000328"}
+ {:name=>"Vault Coin", :price=>"$0.000328"}
+ {:name=>"Ulatech", :price=>"$0.000328"}
+ {:name=>"LevoPlus", :price=>"$0.000328"}
+ {:name=>"Digital Credits", :price=>"$0.000328"}
+ {:name=>"PizzaCoin", :price=>"$0.000328"}
+ {:name=>"FuturXe", :price=>"$0.000328"}
+ {:name=>"Ebittree Coin", :price=>"$0.000328"}
+ {:name=>"Huobi Token", :price=>"$0.000328"}
+ {:name=>"ATMCoin", :price=>"$0.000328"}
+ {:name=>"CK USD", :price=>"$0.000328"}
+ {:name=>"WaykiChain", :price=>"$0.000328"}
+ {:name=>"Dragon Coins", :price=>"$0.000328"}
+ {:name=>"ChatCoin", :price=>"$0.000328"}
+ {:name=>"TopChain", :price=>"$0.000328"}
+ {:name=>"BitStation", :price=>"$0.000328"}
+ {:name=>"NANJCOIN", :price=>"$0.000328"}
+ {:name=>"WINCOIN", :price=>"$0.000328"}
+ {:name=>"OceanChain", :price=>"$0.000328"}
+ {:name=>"Electronic PK...", :price=>"$0.000328"}
+ {:name=>"Acute Angle C...", :price=>"$0.000328"}
+ {:name=>"FairGame", :price=>"$0.000328"}
+ {:name=>"IPChain", :price=>"$0.000328"}
+ {:name=>"Noah Coin", :price=>"$0.000328"}
+ {:name=>"LightChain", :price=>"$0.000328"}
+ {:name=>"Fargocoin", :price=>"$0.000328"}
+ {:name=>"Molecular Future", :price=>"$0.000328"}
+ {:name=>"AMLT Token", :price=>"$0.000328"}
+ {:name=>"Show", :price=>"$0.000328"}
+ {:name=>"Kcash", :price=>"$0.000328"}
+ {:name=>"OFCOIN", :price=>"$0.000328"}
+ {:name=>"Tokenomy", :price=>"$0.000328"}
+ {:name=>"RealChain", :price=>"$0.000328"}
+ {:name=>"PressOne", :price=>"$0.000328"}
+ {:name=>"SelfSell", :price=>"$0.000328"}
+ {:name=>"BnkToTheFuture", :price=>"$0.000328"}
+ {:name=>"Tezos (Pre-La...", :price=>"$0.000328"}
+ {:name=>"ugChain", :price=>"$0.000328"}
+ {:name=>"AWARE", :price=>"$0.000328"}
+ {:name=>"StarChain", :price=>"$0.000328"}
+ {:name=>"Lightning Bit...", :price=>"$0.000328"}
+ {:name=>"Maggie", :price=>"$0.000328"}
+ {:name=>"Neurotoken", :price=>"$0.000328"}
+ {:name=>"Exchange Union", :price=>"$0.000328"}
+ {:name=>"TokenPay", :price=>"$0.000328"}
+ {:name=>"Content and A...", :price=>"$0.000328"}
+ {:name=>"Filecoin [Fut...", :price=>"$0.000328"}
+ {:name=>"Gems ", :price=>"$0.000328"}
+ {:name=>"iQuant", :price=>"$0.000328"}
+ {:name=>"WETH", :price=>"$0.000328"}
+ {:name=>"UG Token", :price=>"$0.000328"}
+ {:name=>"Super Bitcoin", :price=>"$0.000328"}
+ {:name=>"BlockCDN", :price=>"$0.000328"}
+ {:name=>"Aidos Kuneen", :price=>"$0.000328"}
+ {:name=>"BitRent", :price=>"$0.000328"}
+ {:name=>"StockChain", :price=>"$0.000328"}
+ {:name=>"BitcoinX", :price=>"$0.000328"}
+ {:name=>"Titanium BAR", :price=>"$0.000328"}
+ {:name=>"United Bitcoin", :price=>"$0.000328"}
+ {:name=>"Candy", :price=>"$0.000328"}
+ {:name=>"BigONE Token", :price=>"$0.000328"}
+ {:name=>"Bastonet", :price=>"$0.000328"}
+ {:name=>"ValueChain", :price=>"$0.000328"}
+ {:name=>"Hyper Pay", :price=>"$0.000328"}
+ {:name=>"Switcheo", :price=>"$0.000328"}
+ {:name=>"Infinity Econ...", :price=>"$0.000328"}
+ {:name=>"Animation Vis...", :price=>"$0.000328"}
+ {:name=>"Read", :price=>"$0.000328"}
+ {:name=>"UnlimitedIP", :price=>"$0.000328"}
+ {:name=>"CFun", :price=>"$0.000328"}
+ {:name=>"MOAC", :price=>"$0.000328"}
+ {:name=>"Stellite", :price=>"$0.000328"}
+ {:name=>"Golos Gold", :price=>"$0.000328"}
+ {:name=>"Vice Industry...", :price=>"$0.000328"}
+ {:name=>"PolySwarm", :price=>"$0.000328"}
+ {:name=>"Jingtum Tech", :price=>"$0.000328"}
+ {:name=>"Litecoin Cash", :price=>"$0.000328"}
+ {:name=>"StrikeBitClub", :price=>"$0.000328"}
+ {:name=>"COMSA [ETH]", :price=>"$0.000328"}
+ {:name=>"Gladius Token", :price=>"$0.000328"}
+ {:name=>"Qube", :price=>"$0.000328"}
+ {:name=>"HODL Bucks", :price=>"$0.000328"}
+ {:name=>"Sphre AIR ", :price=>"$0.000328"}
+ {:name=>"InvestDigital", :price=>"$0.000328"}
+ {:name=>"STEX", :price=>"$0.000328"}
+ {:name=>"COMSA [XEM]", :price=>"$0.000328"}
+ {:name=>"ODEM", :price=>"$0.000328"}
+ {:name=>"MSD", :price=>"$0.000328"}
+ {:name=>"Bubble", :price=>"$0.000328"}
+ {:name=>"Bee Token", :price=>"$0.000328"}
+ {:name=>"HireMatch", :price=>"$0.000328"}
+ {:name=>"HalalChain", :price=>"$0.000328"}
+ {:name=>"MktCoin", :price=>"$0.000328"}
+ {:name=>"EA Coin", :price=>"$0.000328"}
+ {:name=>"Fluz Fluz", :price=>"$0.000328"}
+ {:name=>"Friendz", :price=>"$0.000328"}
+ {:name=>"SegWit2x", :price=>"$0.000328"}
+ {:name=>"Etherecash", :price=>"$0.000328"}
+ {:name=>"Cloud", :price=>"$0.000328"}
+ {:name=>"HOQU", :price=>"$0.000328"}
+ {:name=>"SHACoin", :price=>"$0.000328"}
+ {:name=>"Peculium", :price=>"$0.000328"}
+ {:name=>"EtherDelta Token", :price=>"$0.000328"}
+ {:name=>"BitSoar", :price=>"$0.000328"}
+ {:name=>"XTD Coin", :price=>"$0.000328"}
+ {:name=>"Consensus", :price=>"$0.000328"}
+ {:name=>"TechShares", :price=>"$0.000328"}
+ {:name=>"NaPoleonX", :price=>"$0.000328"}
+ {:name=>"CryptopiaFeeS...", :price=>"$0.000328"}
+ {:name=>"India Coin", :price=>"$0.000328"}
+ {:name=>"SafeCoin", :price=>"$0.000328"}
+ {:name=>"GameChain System", :price=>"$0.000328"}
+ {:name=>"TurboCoin", :price=>"$0.000328"}
+ {:name=>"Bitcoin God", :price=>"$0.000328"}
+ {:name=>"EmberCoin", :price=>"$0.000328"}
+ {:name=>"ENTCash", :price=>"$0.000328"}
+ {:name=>"IDEX Membership", :price=>"$0.000328"}
+ {:name=>"Animecoin", :price=>"$0.000328"}
+ {:name=>"BlitzPredict", :price=>"$0.000328"}
+ {:name=>"B3Coin", :price=>"$0.000328"}
+ {:name=>"Signal Token", :price=>"$0.000328"}
+ {:name=>"Titanium Bloc...", :price=>"$0.000328"}
+ {:name=>"Lendroid Supp...", :price=>"$0.000328"}
+ {:name=>"International...", :price=>"$0.000328"}
+ {:name=>"Pabyosi Coin ...", :price=>"$0.000328"}
+ {:name=>"DATx", :price=>"$0.000328"}
+ {:name=>"ZenGold", :price=>"$0.000328"}
+ {:name=>"WA Space", :price=>"$0.000328"}
+ {:name=>"GoldMaxCoin", :price=>"$0.000328"}
+ {:name=>"Swisscoin", :price=>"$0.000328"}
+ {:name=>"ClubCoin", :price=>"$0.000328"}
+ {:name=>"AvatarCoin", :price=>"$0.000328"}
+ {:name=>"SJWCoin", :price=>"$0.000328"}
+ {:name=>"Antimatter", :price=>"$0.000328"}
+ {:name=>"Vulcano", :price=>"$0.000328"}
+ {:name=>"Slothcoin", :price=>"$0.000328"}
+ {:name=>"Royalties", :price=>"$0.000328"}
+ {:name=>"Ethereum Lite", :price=>"$0.000328"}
+ {:name=>"TerraNova", :price=>"$0.000328"}
+ {:name=>"CORION", :price=>"$0.000328"}
+ {:name=>"TeslaCoilCoin", :price=>"$0.000328"}
+ {:name=>"T-coin", :price=>"$0.000328"}
+ {:name=>"President Trump", :price=>"$0.000328"}
+ {:name=>"Alphabit", :price=>"$0.000328"}
+ {:name=>"UR", :price=>"$0.000328"}
+ {:name=>"BT2 [CST]", :price=>"$0.000328"}
+ {:name=>"Macro", :price=>"$0.000328"}
+ {:name=>"Nitro", :price=>"$0.000328"}
+ {:name=>"Tattoocoin (L...", :price=>"$0.000328"}
+ {:name=>"First Bitcoin...", :price=>"$0.000328"}
+ {:name=>"ACChain", :price=>"$0.000328"}
+ {:name=>"United Trader...", :price=>"$0.000328"}
+ {:name=>"DavorCoin", :price=>"$0.000328"}
+ {:name=>"OX Fina", :price=>"$0.000328"}
+ {:name=>"SIGMAcoin", :price=>"$0.000328"}
+ {:name=>"Numus", :price=>"$0.000328"}
+ {:name=>"NumusCash", :price=>"$0.000328"}
+ {:name=>"DynamicCoin", :price=>"$0.000328"}
+ {:name=>"Sparks", :price=>"$0.000328"}
+ {:name=>"Indicoin", :price=>"$0.000328"}
+ {:name=>"Escroco", :price=>"$0.000328"}
+ {:name=>"GOLD Reward T...", :price=>"$0.000328"}
+ {:name=>"EDRCoin", :price=>"$0.000328"}
+ {:name=>"Magnetcoin", :price=>"$0.000328"}
+ {:name=>"FlappyCoin", :price=>"$0.000328"}
+ {:name=>"AlpaCoin", :price=>"$0.000328"}
+ {:name=>"EncryptoTel [...", :price=>"$0.000328"}
+ {:name=>"Cyder", :price=>"$0.000328"}
+ {:name=>"UNCoin", :price=>"$0.000328"}
+ {:name=>"ANRYZE", :price=>"$0.000328"}
+ {:name=>"Superior Coin", :price=>"$0.000328"}
+ {:name=>"Smoke", :price=>"$0.000328"}
+ {:name=>"Digital Bulli...", :price=>"$0.000328"}
+ {:name=>"LePen", :price=>"$0.000328"}
+ {:name=>"Minex", :price=>"$0.000328"}
+ {:name=>"Francs", :price=>"$0.000328"}
+ {:name=>"Harvest Maste...", :price=>"$0.000328"}
+ {:name=>"Storjcoin X", :price=>"$0.000328"}
+ {:name=>"GrandCoin", :price=>"$0.000328"}
+ {:name=>"Halloween Coin", :price=>"$0.000328"}
+ {:name=>"PlexCoin", :price=>"$0.000328"}
+ {:name=>"WeAreSatoshi", :price=>"$0.000328"}
+ {:name=>"Aces", :price=>"$0.000328"}
+ {:name=>"RabbitCoin", :price=>"$0.000328"}
+ {:name=>"BTCMoon", :price=>"$0.000328"}
+ {:name=>"UniversalRoya...", :price=>"$0.000328"}
+ {:name=>"Safe Trade Coin", :price=>"$0.000328"}
+ {:name=>"BestChain", :price=>"$0.000328"}
+ {:name=>"Cashme", :price=>"$0.000328"}
+ {:name=>"Runners", :price=>"$0.000328"}
+ {:name=>"CoffeeCoin", :price=>"$0.000328"}
+ {:name=>"Cubits", :price=>"$0.000328"}
+ {:name=>"Huncoin", :price=>"$0.000328"}
+ {:name=>"BlazerCoin", :price=>"$0.000328"}
+ {:name=>"MarxCoin", :price=>"$0.000328"}
+ {:name=>"BITFID", :price=>"$0.000328"}
+ {:name=>"Fonziecoin", :price=>"$0.000328"}
+ {:name=>"NamoCoin", :price=>"$0.000328"}
+ {:name=>"Birds", :price=>"$0.000328"}
+ {:name=>"NEO GOLD", :price=>"$0.000328"}
+ {:name=>"Levocoin", :price=>"$0.000328"}
+ {:name=>"Qora", :price=>"$0.000328"}
+ {:name=>"TopCoin", :price=>"$0.000328"}
+ {:name=>"Bitbase", :price=>"$0.000328"}
+ {:name=>"Sakuracoin", :price=>"$0.000328"}
+ {:name=>"CryptCoin", :price=>"$0.000328"}
+ {:name=>"TrickyCoin", :price=>"$0.000328"}
+ {:name=>"First Bitcoin", :price=>"$0.000328"}
+ {:name=>"ZSEcoin", :price=>"$0.000328"}
+ {:name=>"Zilbercoin", :price=>"$0.000328"}
+ {:name=>"TodayCoin", :price=>"$0.000328"}
+ {:name=>"Sharkcoin", :price=>"$0.000328"}
+ {:name=>"President Joh...", :price=>"$0.000328"}
+ {:name=>"Wi Coin", :price=>"$0.000328"}
+ {:name=>"Operand", :price=>"$0.000328"}
+ {:name=>"High Gain", :price=>"$0.000328"}
+ {:name=>"Protean", :price=>"$0.000328"}
+ {:name=>"BatCoin", :price=>"$0.000328"}
+ {:name=>"FAPcoin", :price=>"$0.000328"}
+ {:name=>"GAY Money", :price=>"$0.000328"}
+ {:name=>"UGAIN", :price=>"$0.000328"}
+ {:name=>"RichCoin", :price=>"$0.000328"}
+ {:name=>"RubleBit", :price=>"$0.000328"}
+ {:name=>"Akuya Coin", :price=>"$0.000328"}
+ {:name=>"Donationcoin", :price=>"$0.000328"}
+ {:name=>"Avoncoin", :price=>"$0.000328"}
+ {:name=>"Musiconomi", :price=>"$0.000328"}
+ {:name=>"Sand Coin", :price=>"$0.000328"}
+ {:name=>"DeltaCredits", :price=>"$0.000328"}
+ {:name=>"FrankyWillCoin", :price=>"$0.000328"}
+ {:name=>"Quotient", :price=>"$0.000328"}
+ {:name=>"BitSerial", :price=>"$0.000328"}
+ {:name=>"Wink", :price=>"$0.000328"}
+ {:name=>"SISA", :price=>"$0.000328"}
+ {:name=>"Moneta", :price=>"$0.000328"}
+ {:name=>"Axiom", :price=>"$0.000328"}
+ {:name=>"Cheapcoin", :price=>"$0.000328"}
+ {:name=>"CyberCoin", :price=>"$0.000328"}
+ {:name=>"Fazzcoin", :price=>"$0.000328"}
+ {:name=>"RoyalCoin", :price=>"$0.000328"}
+ {:name=>"Granite", :price=>"$0.000328"}
+ {:name=>"PrismChain", :price=>"$0.000328"}
+ {:name=>"Pirate Blocks", :price=>"$0.000328"}
+ {:name=>"Topaz Coin", :price=>"$0.000328"}
+ {:name=>"Aseancoin", :price=>"$0.000328"}
+ {:name=>"Bitok", :price=>"$0.000328"}
+ {:name=>"Opescoin", :price=>"$0.000328"}
+ {:name=>"Lazaruscoin", :price=>"$0.000328"}
+ {:name=>"LandCoin", :price=>"$0.000328"}
+ {:name=>"Compcoin", :price=>"$0.000328"}
+ {:name=>"Tellurion", :price=>"$0.000328"}
+ {:name=>"BetaCoin", :price=>"$0.000328"}
+ {:name=>"Dashs", :price=>"$0.000328"}
+ {:name=>"MobileCash", :price=>"$0.000328"}
+ {:name=>"FutCoin", :price=>"$0.000328"}
+ {:name=>"TheCreed", :price=>"$0.000328"}
+ {:name=>"Cycling Coin", :price=>"$0.000328"}
+ {:name=>"PayPeer", :price=>"$0.000328"}
+ {:name=>"RHFCoin", :price=>"$0.000328"}
+ {:name=>"Hyper", :price=>"$0.000328"}
+ {:name=>"Primulon", :price=>"$0.000328"}
+ {:name=>"ShellCoin", :price=>"$0.000328"}
+ {:name=>"SportsCoin", :price=>"$0.000328"}
+ {:name=>"X2", :price=>"$0.000328"}
+ {:name=>"DarkLisk", :price=>"$0.000328"}
+ {:name=>"LinkedCoin", :price=>"$0.000328"}
+ {:name=>"SuperNET", :price=>"$0.000328"}
+ {:name=>"PokeCoin", :price=>"$0.000328"}
+ {:name=>"Omicron", :price=>"$0.000328"}
+ {:name=>"KashhCoin", :price=>"$0.000328"}
+ {:name=>"Psilocybin", :price=>"$0.000328"}
+ {:name=>"GameLeagueCoin", :price=>"$0.000328"}
+ {:name=>"EggCoin", :price=>"$0.000328"}
+ {:name=>"netBit", :price=>"$0.000328"}
+ {:name=>"Rcoin", :price=>"$0.000328"}
+ {:name=>"KlondikeCoin", :price=>"$0.000328"}
+ {:name=>"Regacoin", :price=>"$0.000328"}
+ {:name=>"Internet of T...", :price=>"$0.000328"}
+ {:name=>"LLToken", :price=>"$0.000328"}
+ {:name=>"Dutch Coin", :price=>"$0.000328"}
+ {:name=>"Infinitecoin", :price=>"$0.000328"}
+ {:name=>"Karmacoin", :price=>"$0.000328"}
+ {:name=>"VPNCoin", :price=>"$0.000328"}
+ {:name=>"Trinity", :price=>"$0.000328"}
+ {:name=>"Happy Creator...", :price=>"$0.000328"}
+ {:name=>"MergeCoin", :price=>"$0.000328"}
+ {:name=>"Farstcoin", :price=>"$0.000328"}
+ {:name=>"TimesCoin", :price=>"$0.000328"}
+ {:name=>"W3Coin", :price=>"$0.000328"}
