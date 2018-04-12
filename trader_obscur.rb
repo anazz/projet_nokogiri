@@ -28,6 +28,8 @@ def cryptocurrencies
 		end	
 		#afficher le hash 
 		puts list
+		
+		###!!!
 		#enleves le commentaire ci-bas si tu veux ecrire la liste dans le fichier prices.txt
 		#prices.write(" " + "#{list}" + "\n")
 	end	
