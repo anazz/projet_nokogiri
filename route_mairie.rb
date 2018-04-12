@@ -60,7 +60,7 @@ def get_all_the_urls_of_val_doise_townhalls_with_emails
 		#afficher le hash 	
 		puts list
 
-		###!!
+		###!!!
 		#enleves le commentaire ci-bas si tu veux ecrire la liste dans le fichier mairies.txt
 		#city_halls.write(" " + "#{list}" + "\n")
 	end
